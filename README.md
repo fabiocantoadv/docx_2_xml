@@ -45,9 +45,12 @@ Source: GitHub Actions*. Os exemplos de `viewer/samples/` carregam ao abrir.
 
 ## Notebook do Colab
 
+[Abrir no Colab](https://colab.research.google.com/github/fabiocantoadv/docx_2_xml/blob/main/notebooks/docx_para_sps_colab.ipynb)
+
 `notebooks/docx_para_sps_colab.ipynb` pede o DOCX, roda o pipeline, mostra o
-XML e baixa o XML e o pacote `.zip`. O pipeline vai embutido no notebook; depois
-de mudar o código, gere de novo com `python notebooks/make_colab_notebook.py`.
+XML e baixa o XML e o pacote `.zip`. O notebook baixa o pipeline deste repositório
+(branch `main`) na etapa 2, então usa sempre a versão publicada. Para alterar as
+células, edite e rode `python notebooks/make_colab_notebook.py`.
 
 ## Instalação
 

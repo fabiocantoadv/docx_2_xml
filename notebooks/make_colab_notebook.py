@@ -1,25 +1,13 @@
-"""Gera notebooks/docx_para_sps_colab.ipynb com o pipeline embutido (base64).
+"""Gera notebooks/docx_para_sps_colab.ipynb (o notebook baixa o pipeline do GitHub).
 
 Rodar a partir da raiz do projeto:  python notebooks/make_colab_notebook.py
 """
 
-import base64
-import io
-import tarfile
 from pathlib import Path
 
 import nbformat as nbf
 
 ROOT = Path(__file__).resolve().parents[1]
-
-
-def bundle() -> str:
-    buf = io.BytesIO()
-    with tarfile.open(fileobj=buf, mode="w:gz") as tar:
-        for name in ("src", "scripts", "schemas", "config", "pyproject.toml", "README.md"):
-            tar.add(ROOT / name, arcname=f"scielo-docx-to-sps/{name}",
-                    filter=lambda ti: None if "__pycache__" in ti.name else ti)
-    return base64.b64encode(buf.getvalue()).decode()
 
 
 md = nbf.v4.new_markdown_cell
@@ -31,7 +19,7 @@ cells = [
 Envie o DOCX de um artigo e receba o XML no padrão **SciELO Publishing Schema 1.8** (JATS 1.1),
 validado contra a DTD JATS e o schematron oficial da SciELO, mais o pacote SPS (XML + imagens).
 
-É o pipeline `scielo-docx-to-sps` (adaptação do `pi-patent-pdf-to-st36`), embutido neste notebook.
+Usa o pipeline do repositório [fabiocantoadv/docx_2_xml](https://github.com/fabiocantoadv/docx_2_xml) (adaptação do `pi-patent-pdf-to-st36`), baixado na etapa 2.
 
 **Como usar:** *Ambiente de execução → Executar tudo* (ou execute as células em ordem). Na etapa 3
 aparece o botão para escolher o DOCX."""),
@@ -50,11 +38,11 @@ DATA_PUBLICACAO = ""  #@param {type:"string"}
 #@markdown Também copiar o resultado para o Google Drive (`MyDrive/scielo_sps/`).
 SALVAR_NO_DRIVE = False  #@param {type:"boolean"}
 #@markdown Mostrar o XML inteiro (desmarcado: só as primeiras linhas).
-XML_COMPLETO = True  #@param {type:"boolean"}
+XML_COMPLETO = False  #@param {type:"boolean"}
 #@markdown (Fora do Colab) caminho de um DOCX local, em vez do upload.
 DOCX_LOCAL = ""  #@param {type:"string"}"""),
     md("## 2. Instalação do pipeline"),
-    code(f"""import base64, io, os, subprocess, sys, tarfile
+    code("""import io, os, subprocess, sys, urllib.request, zipfile
 from pathlib import Path
 
 try:
@@ -63,22 +51,27 @@ try:
 except ImportError:
     EM_COLAB = False
 
+REPO = "fabiocantoadv/docx_2_xml"
 BASE = Path("/content" if EM_COLAB else os.getcwd())
-PIPE = BASE / "scielo-docx-to-sps"
-PIPELINE_TGZ = "{bundle()}"
-if not PIPE.exists():
-    with tarfile.open(fileobj=io.BytesIO(base64.b64decode(PIPELINE_TGZ)), mode="r:gz") as tar:
-        try:
-            tar.extractall(BASE, filter="data")
-        except TypeError:  # Python < 3.12
-            tar.extractall(BASE)
+PIPE = BASE / "docx_2_xml"
+
+if not (PIPE / "src/sciartigo").exists():
+    print(f"Baixando o pipeline de github.com/{REPO} ...")
+    ok = subprocess.run(["git", "clone", "-q", "--depth", "1", f"https://github.com/{REPO}", str(PIPE)]).returncode == 0
+    if not ok:  # sem git: baixa o .zip da branch main
+        data = urllib.request.urlopen(f"https://github.com/{REPO}/archive/refs/heads/main.zip", timeout=120).read()
+        with zipfile.ZipFile(io.BytesIO(data)) as zf:
+            zf.extractall(BASE)
+        (BASE / "docx_2_xml-main").rename(PIPE)
 sys.path.insert(0, str(PIPE / "src"))
 
+print("Instalando dependências Python ...")
 subprocess.run([sys.executable, "-m", "pip", "install", "-q", "lxml>=5.0"] +
                (["pymupdf"] if RENDERIZAR_FORMAS else []), check=True)
 if RENDERIZAR_FORMAS and EM_COLAB and subprocess.run(["which", "soffice"], capture_output=True).returncode != 0:
-    print("Instalando LibreOffice (só na primeira execução)...")
-    subprocess.run("apt-get -qq update && apt-get -qq install -y libreoffice-writer > /dev/null", shell=True, check=False)
+    print("Instalando LibreOffice para as figuras de formas (1 a 3 minutos, só na primeira vez) ...")
+    subprocess.run("apt-get -qq update > /dev/null && apt-get -qq install -y --no-install-recommends libreoffice-writer > /dev/null",
+                   shell=True, check=False)
 print("Pipeline pronto em", PIPE)"""),
     md("## 3. Envie o DOCX do artigo"),
     code("""if DOCX_LOCAL:
