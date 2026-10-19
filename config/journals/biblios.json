@@ -1,0 +1,55 @@
+{
+  "_comment": "Configuracao por periodico. 'journal' vira <journal-meta>; 'styles' mapeia os nomes de estilo do template Word (comparacao sem diferenciar maiusculas). Equivale ao xml_basic do pipeline de patentes: a fonte bibliografica que o documento nao traz.",
+  "journal": {
+    "journal_id": "biblios",
+    "acron": "biblios",
+    "title": "Biblios",
+    "abbrev_title": "Biblios",
+    "issn_epub": "1562-4730",
+    "issn_ppub": "",
+    "publisher": "University Library System, University of Pittsburgh"
+  },
+  "defaults": {
+    "article_type": "research-article",
+    "lang": "pt",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_text": "Este é um artigo publicado em acesso aberto sob uma licença Creative Commons",
+    "subject": "Original",
+    "volume": ""
+  },
+  "categories": {
+    "original": {"article_type": "research-article", "subject": "Original"},
+    "revisao": {"article_type": "review-article", "subject": "Revisão"},
+    "revision": {"article_type": "review-article", "subject": "Revisión"},
+    "review": {"article_type": "review-article", "subject": "Review"},
+    "relato de experiencia": {"article_type": "case-report", "subject": "Relato de experiência"},
+    "resenha": {"article_type": "book-review", "subject": "Resenha"},
+    "editorial": {"article_type": "editorial", "subject": "Editorial"},
+    "entrevista": {"article_type": "interview", "subject": "Entrevista"}
+  },
+  "styles": {
+    "title": ["Title", "Article Title"],
+    "trans_title": ["Title 2", "Article title 2", "Subtitle"],
+    "author": ["Author Bio", "Authorship", "Author"],
+    "abstract_title": ["Abstract Title"],
+    "abstract_text": ["Abstract Grey Text", "Abstract"],
+    "keywords_title": ["Keywords Title"],
+    "keywords": ["Keywords List", "Keywords"],
+    "caption": ["Caption", "Legenda", "Epígrafe"],
+    "list": ["Orange Bullet List", "List Paragraph", "List Bullet", "List Number", "Lista"],
+    "reference": ["Bibliography Entry", "Bibliography", "Bibliografia", "Referências"],
+    "quote": ["Quote", "Citação", "Intense Quote", "Block Text"],
+    "pubdata_label": ["Heading 4"],
+    "pubdata_person": ["Authorship"]
+  },
+  "markers": {
+    "references": ["referências", "referencias", "references", "referências bibliográficas", "bibliografia"],
+    "appendix": ["apêndice", "apêndices", "apéndice", "appendix", "anexo", "anexos"],
+    "pubdata": ["dados de publicação", "datos de publicación", "publication data"],
+    "ack": ["agradecimentos", "agradecimientos", "acknowledgments", "acknowledgements"]
+  },
+  "output": {
+    "image_ext": "keep",
+    "country_text": "original"
+  }
+}

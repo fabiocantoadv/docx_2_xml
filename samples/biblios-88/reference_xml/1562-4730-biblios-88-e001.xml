@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biblios</journal-id>
+			<journal-title-group>
+				<journal-title>Biblios</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biblios</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1562-4730</issn>
+			<publisher>
+				<publisher-name>University Library System, University of Pittsburgh</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.5195/biblios.2025.1310</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Integridade científica nos periódicos científicos da área de saúde: Análise das diretrizes para submissão de artigos</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Scientific integrity in health science journals: Analysis of the guidelines for article submission</trans-title>
+				</trans-title-group>
+				<trans-title-group xml:lang="es">
+					<trans-title>Integridad científica en las revistas científicas del ámbito de la salud: Análisis de las directrices para la presentación de artículos</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-1478-6828</contrib-id>
+					<name>
+						<surname>Rocha</surname>
+						<given-names>Ednéia Silva Santos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0007-6901-985X</contrib-id>
+					<name>
+						<surname>Dias de Sousa</surname>
+						<given-names>Sofia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Universidade de São Paulo - USP, Ribeirão Preto, Brasil</institution>
+				<institution content-type="normalized">Universidade de São Paulo</institution>
+				<institution content-type="orgname">Universidade de São Paulo</institution>
+				<addr-line>
+					<city>Ribeirão Preto</city>
+				</addr-line>
+				<country country="BR">Brazil</country>
+			</aff>
+			<aff id="aff2">
+				<label>1</label>
+				<institution content-type="original">Universidade de São Paulo - USP, Ribeirão Preto, Brasil</institution>
+				<institution content-type="normalized">Universidade de São Paulo</institution>
+				<institution content-type="orgname">Universidade de São Paulo</institution>
+				<addr-line>
+					<city>Ribeirão Preto</city>
+				</addr-line>
+				<country country="BR">Brazil</country>
+			</aff>
+			<pub-date pub-type="collection">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<issue>88</issue>
+			<elocation-id>e001</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>10</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>01</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>15</day>
+					<month>03</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="pt">
+					<license-p>Este é um artigo publicado em acesso aberto sob uma licença Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumo</title>
+				<sec>
+					<title>Objetivos.</title>
+					<p> A integridade científica é um pilar fundamental para o avanço e credibilidade da ciência e deve ser incentivada em todos os campos científicos. Assim, este estudo tem como objetivo analisar as diretrizes de integridade científica em periódicos da área de saúde indexados na base SciELO. A pesquisa foca em identificar a implementação de políticas de boas práticas científicas, o uso de softwares de verificação de similaridade, as políticas de gestão de dados e os critérios de propriedade intelectual adotados.</p>
+				</sec>
+				<sec>
+					<title>Método</title>
+					<p>. O estudo adota uma abordagem mista, combinando métodos quantitativos e qualitativos, por meio da análise de conteúdo das diretrizes para submissão de artigos. A amostra inclui 362 revistas e periódicos na área das Ciências da Saúde, ativos na base de dados SciELO (Scientific Electronic Library Online). Os dados foram coletados entre 20 de setembro de 2023 e 16 de março de 2024, buscando garantir a atualidade e relevância das informações analisadas. Foi elaborado um protocolo de coleta de dados, contendo aproximadamente 26 campos, para sistematizar a coleta de informações sobre as diretrizes de cada periódico.</p>
+				</sec>
+				<sec>
+					<title>Resultados</title>
+					<p>. Ao se analisar o corpus da pesquisa se observou que 79%, cerca de 275, dos periódicos analisados possuem diretrizes éticas para publicações ou apenas a menção da participação/adoção de comitês e protocolos éticos, como a ICMJE e o COPE, destaque para os periódicos de Qualis B1 a A1. A adoção de software de detecção de similaridade textual é uma das principais medidas para o combate à má conduta, cerca de 65%, fazem uso desse tipo de sistema como método de fiscalização. Dentre os sistemas mais utilizados estão CrossRef Similarity Check (14%), iThenticate (13%) e Turnitin (9%).</p>
+				</sec>
+				<sec>
+					<title>Conclusões.</title>
+					<p> A partir da amostra coletada neste estudo, foi possível observar que grande parte das revistas analisadas possuem diretrizes éticas, apesar de algumas organizações não disponibilizarem suas políticas editoriais em sua totalidade, ou não as possuindo. Também observamos que o plágio como uma das preocupações permanentes entre a amostra de periódicos, nos convém ressaltar que os softwares antiplágio não devem ser usados como único método de avaliação, mas sim como um complemento à análise crítica humana. Destacamos a alta taxa de filiação ao Comitê de Ética em Publicações (COPE), sendo uma expressão favorável ao tema e sugerimos por fim a necessidade de atualização de diretrizes por parte dos periódicos frente aos novos desafios éticos da atualidade, como o uso de Inteligências Artificiais.</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<sec>
+					<title>Objective</title>
+					<p>. Scientific integrity is a fundamental pillar for the advancement and credibility of science and should be encouraged in all scientific fields. Therefore, this study aims to analyze the scientific integrity guidelines in health-related journals indexed in the SciELO database. The research focuses on identifying the implementation of good scientific practice policies, the use of similarity detection software, data management policies, and the intellectual property criteria adopted.</p>
+				</sec>
+				<sec>
+					<title>Method</title>
+					<p>. The study adopts a mixed approach, combining quantitative and qualitative methods, through content analysis of the guidelines for submitting articles. The sample includes 362 magazines and journals in the area of Health Sciences, active in the SciELO (Scientific Electronic Library Online) database. The data was collected between September 20, 2023 and March 16, 2024, in order to guarantee the timeliness and relevance of the information analyzed. A data collection protocol was drawn up, containing approximately 26 fields, to systematize the collection of information on the guidelines of each journal.</p>
+				</sec>
+				<sec>
+					<title>Results</title>
+					<p>. An analysis of the research corpus revealed that 79%, approximately 275, of the journals examined have ethical guidelines for publications or at least mention adherence to ethical committees and protocols, such as ICMJE and COPE, with particular emphasis on journals classified as Qualis B1 to A1. The adoption of text similarity detection software is one of the primary measures to combat misconduct, with about 65% of the journals employing such systems for oversight. Among the most commonly used tools are CrossRef Similarity Check (14%), iThenticate (13%), and Turnitin (9%).</p>
+				</sec>
+				<sec>
+					<title>Conclusions</title>
+					<p>. Based on the sample collected in this study, it was possible to observe that most of the journals analyzed have ethical guidelines, although some organizations do not make their editorial policies available in their entirety, or do not have them at all. We also observed that plagiarism is a permanent concern among the sample of journals. It is important to emphasize that anti-plagiarism software should not be used as the only evaluation method, but rather as a complement to human critical analysis. We highlight the high rate of affiliation to the Committee on Publication Ethics (COPE), which is a favorable expression of support for the topic. Finally, we suggest the need for journals to update their guidelines in view of the new ethical challenges of today, such as the use of Artificial Intelligence.</p>
+				</sec>
+			</trans-abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<sec>
+					<title>Objetivo</title>
+					<p>. Objetivos. La integridad científica es un pilar fundamental para el avance y la credibilidad de la ciencia y debe ser fomentada en todos los campos científicos. Por lo tanto, este estudio tiene como objetivo analizar las directrices de integridad científica en las revistas de salud indexadas en la base de datos SciELO. La investigación se centra en identificar la implementación de políticas de buenas prácticas científicas, el uso de software de verificación de similitud, las políticas de gestión de datos y los criterios de propiedad intelectual adoptados.</p>
+				</sec>
+				<sec>
+					<title>Método.</title>
+					<p> El estudio adopta un enfoque mixto, combinando métodos cuantitativos y cualitativos, mediante el análisis del contenido de las directrices de presentación de artículos. La muestra incluye 362 revistas y periódicos del área de Ciencias de la Salud, activos en la base de datos SciELO (Scientific Electronic Library Online). Los datos se recogieron entre el 20 de septiembre de 2023 y el 16 de marzo de 2024, con el fin de garantizar la actualidad y pertinencia de la información analizada. Se elaboró un protocolo de recogida de datos, con aproximadamente 26 campos, para sistematizar la recogida de información sobre las directrices de cada revista.</p>
+				</sec>
+				<sec>
+					<title>Resultados.</title>
+					<p> Al analizar el corpus de investigación, se observó que el 79%, alrededor de 275, de las revistas analizadas tienen directrices éticas para las publicaciones o sólo mencionan la participación/adopción de comités y protocolos éticos, como el ICMJE y COPE, especialmente las revistas Qualis B1 a A1. La adopción de software de detección de similitud textual es una de las principales medidas para combatir la mala conducta, ya que alrededor del 65% utiliza este tipo de sistema como método de control. Entre los sistemas más utilizados se encuentran CrossRef Similarity Check (14%), iThenticate (13%) y Turnitin (9%).</p>
+				</sec>
+				<sec>
+					<title>Conclusiones.</title>
+					<p> A partir de la muestra recogida en este estudio, se pudo observar que la mayoría de las revistas analizadas cuentan con directrices éticas, aunque algunas organizaciones no ponen a disposición sus políticas editoriales en su totalidad, o en absoluto. También observamos que el plagio era una de las preocupaciones permanentes entre la muestra de revistas, y debemos hacer hincapié en que el software antiplagio no debe utilizarse como único método de evaluación, sino como complemento del análisis crítico humano. Destacamos el alto índice de adhesión al Comité de Ética de las Publicaciones (COPE), que es una expresión favorable de la cuestión, y sugerimos, por último, la necesidad de que las revistas actualicen sus directrices ante los nuevos desafíos éticos actuales, como el uso de la Inteligencia Artificial.</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave:</title>
+				<kwd>Integridade científica</kwd>
+				<kwd>plágio</kwd>
+				<kwd>ética</kwd>
+				<kwd>softwares de similaridade</kwd>
+				<kwd>diretrizes éticas</kwd>
+				<kwd>periódicos científicos</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Scientific integrity</kwd>
+				<kwd>plagiarism</kwd>
+				<kwd>ethics</kwd>
+				<kwd>similarity software, ethical guidelines</kwd>
+				<kwd>scientific journals</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Integridad científica</kwd>
+				<kwd>plagio</kwd>
+				<kwd>ética</kwd>
+				<kwd>software de similitud</kwd>
+				<kwd>directrices éticas</kwd>
+				<kwd>revistas científicas</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="5"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="22"/>
+				<page-count count="20"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introdução</title>
+			<p>O atual contexto de evolução e democratização da informação tem promovido avanços no acesso ao conhecimento, estimulando a produção científica e destacando a necessidade de adaptação e escalabilidade de plataformas para atender à crescente demanda por produção, acesso rápido e disseminação de conteúdos científicos. Nesse cenário, manter padrões elevados de integridade científica é fundamental para assegurar a credibilidade do conhecimento gerado. A integridade científica abrange práticas como honestidade, rigor, transparência e responsabilidade em todas as etapas do processo de pesquisa, desde a coleta de dados até a publicação dos resultados. De acordo com Santos (2011), os valores éticos associados à ciência impõem ao pesquisador responsabilidades que transcendem o âmbito profissional, contribuindo para a construção de um patrimônio intelectual confiável. Dessa forma, a integridade científica se apresenta como uma resposta às demandas contemporâneas por credibilidade e autenticidade na produção científica.</p>
+			<p>De acordo com <xref ref-type="bibr" rid="B12">Metcalfe <italic>et al.</italic> (2020</xref>), a integridade da pesquisa implica padrões profissionais a serem adotados pelos pesquisadores e promovidos pelas organizações de pesquisa. Além disso, como elucidam os autores, significa “realizar e conduzir pesquisas de uma forma que garanta que sejam confiáveis e éticas”. Como tal, a integridade da investigação envolve práticas que resultam em resultados de alta qualidade, verdadeiros e replicáveis e, portanto, a abstenção de ações que tenham o efeito oposto.</p>
+			<p>As diretrizes éticas surgem então como ferramentas para garantir a integridade e a confiabilidade da pesquisa científica, combatendo a má conduta em suas diversas formas. Ao se mostrarem adeptos a padrões éticos os periódicos ajudam na promoção da honestidade e rigor científico bem como elevam seu status em meio a infinidade de revistas existentes. Com processos transparentes e de qualidade, que consequentemente contribuem para uma melhor reputação do periódico no meio acadêmico, além de aumentar a confiabilidade de suas publicações ao público. <xref ref-type="bibr" rid="B19">Shinkai, R. (2010</xref>) enfatiza a importância da integridade na pesquisa e na publicação para preservar a integridade da pesquisa e prevenir a má conduta na publicação, recomendando que autores, revisores e editores sigam as diretrizes do <italic>International Committee of Medical Journal Editors</italic> (ICMJE) e do <italic>Committee on Publication Ethics</italic> (COPE), que são organizações que fornecem recomendações e desenvolver diretrizes para auxiliar os processos editoriais de periódicos científicos.</p>
+			<p>Convém ressaltar que os debates sobre ética em pesquisa científica têm-se mostrado cada vez mais relevantes, envolvendo aspectos sociais, culturais, econômicos, e medidas para promover a ética são necessárias para preservar a integridade da pesquisa, principalmente pela preocupação da comunidade científica em relação às crescentes ocorrências de má conduta científica, como plágio e deturpação de dados. </p>
+			<p>Assim, pesquisar práticas de integridade científica em periódicos da área da saúde é importante para garantir a precisão, confiabilidade da informação e manutenção da confiança pública em orientações médicas e políticas de saúde. Assegurar publicações baseadas em pesquisas éticas também é crucial para a tomada de decisões clínicas informadas e para a promoção da saúde. </p>
+			<p>A integridade científica na pesquisa biomédica e em saúde pública exige mais do que seguir diretrizes publicadas para prevenir má conduta científica. <xref ref-type="bibr" rid="B7">Coughlin, Barker e Dawson (2012</xref>) argumentam que boas práticas na pesquisa envolve um compromisso com a honestidade intelectual e responsabilidade pessoal por todas as ações de um pesquisador. <xref ref-type="bibr" rid="B10">Kwasnicka <italic>et al.</italic> (2020</xref>) fornecem recomendações para promover a integridade científica através da ciência aberta na psicologia da saúde, endossando ações prioritárias para pesquisadores, educadores e editores de periódicos para desenvolver boas práticas na publicação.</p>
+			<p>O presente estudo tem como objetivo realizar uma análise detalhada das diretrizes relacionadas à integridade científica em periódicos da área de saúde indexados na base SciELO, com ênfase na existência e implementação de políticas de boas práticas científicas, na utilização de <italic>softwares</italic> de verificação de similaridade, na política de gestão de dados e nos critérios de propriedade intelectual adotados.</p>
+			<p>A integridade científica constitui um dos pilares fundamentais para a credibilidade e o progresso do conhecimento científico. No entanto, a ocorrência de práticas inadequadas, como o plágio e a falta de originalidade em manuscritos submetidos a periódicos científicos, tem sido objeto de crescente preocupação entre editores e pesquisadores. Dada a crescente digitalização das fontes de informação e a facilidade de acesso a conteúdos pré-existentes, é imperativo investigar com rigor as diretrizes de submissão estabelecidas por periódicos da área de saúde, com vistas a identificar as políticas adotadas para assegurar boas práticas científicas e o emprego de <italic>softwares</italic> de detecção de similaridade como mecanismos preventivos (<xref ref-type="bibr" rid="B17">Rocha; Andrade, 2023</xref>).</p>
+			<p>Este estudo justifica-se pela relevância de compreender as abordagens adotadas pelos periódicos no fortalecimento da integridade científica, buscando identificar as lacunas existentes e propor possíveis aprimoramentos. Ao analisar o uso de tecnologias de verificação de similaridade e as políticas de gestão de dados e de propriedade intelectual, a pesquisa contribui de forma direta para o desenvolvimento de estratégias mais eficazes no combate ao plágio e na promoção de práticas científicas éticas, fortalecendo, assim, a confiabilidade do sistema de produção e disseminação do conhecimento científico.</p>
+		</sec>
+		<sec>
+			<title>Revisão de literatura </title>
+			<p>O conceito de &quot;<italic>ethos</italic> científico&quot; foi introduzido por Robert Merton, sociólogo que descreveu a ciência como uma prática regida por normas éticas fundamentais, entre as quais se destacam o universalismo, o desinteresse e o ceticismo organizado. Universalismo refere-se à ideia de que o conhecimento científico deve ser avaliado de forma imparcial, independentemente da identidade ou do status social de quem o produz. Desinteresse implica que os cientistas devem priorizar a busca pelo conhecimento acima de interesses pessoais ou materiais. Ceticismo organizado significa que todas as ideias e descobertas científicas devem ser submetidas ao escrutínio rigoroso e sistemático da comunidade científica, promovendo a autocrítica e a verificação contínua. Essas normas formam o alicerce moral sobre o qual a ciência deve se basear, visando à produção de conhecimento confiável. De acordo com Merton (1964), o sucesso da ciência depende do compromisso dos cientistas com esse conjunto de valores e normas, que são transmitidos através do ensino e de exemplos, sendo reforçados por sanções sociais e progressivamente interiorizados por cada indivíduo.</p>
+			<p>Essas normas também são compreendidas como um conjunto de princípios e diretrizes éticas que devem orientar a conduta dos pesquisadores em todas as fases da produção científica. Esses valores são essenciais para garantir a integridade, a objetividade e a credibilidade do conhecimento gerado, assegurando que o processo científico seja conduzido de maneira responsável e transparente. A integridade também envolve o respeito pelos direitos autorais e a correta atribuição de ideias e descobertas de terceiros, evitando o plágio e reconhecendo adequadamente as contribuições de outros cientistas.</p>
+			<p>O surgimento das práticas de integridade científica e o conceito de &quot;<italic>ethos</italic> científico&quot; não são recentes, no entanto vem ganhando notoriedade a partir das décadas de 1980 e 1990, especialmente nos Estados Unidos e na Europa. Movimento esse impulsionado por escândalos de fraude científica que colocam em xeque a revisão e confiabilidade da ciência, exigindo respostas institucionais e regulatórias. </p>
+			<p>A integridade científica tem sido uma preocupação crescente no ambiente acadêmico, principalmente devido ao aumento das denúncias de má conduta em pesquisas e publicações. A má conduta científica, que inclui práticas como o plágio, a fabricação de dados e a falsificação de resultados, afeta diretamente a credibilidade das pesquisas e a confiança pública na ciência (<xref ref-type="bibr" rid="B16">Resnik, 1998</xref>). Segundo Resnik (1998, p. 45), a integridade científica é &quot;essencial para garantir que a ciência avance de maneira ética e que os resultados das pesquisas sejam confiáveis&quot;.</p>
+			<p>Esses conceitos continuam a evoluir, a realização de conferências internacionais, como a primeira Conferência Mundial sobre Integridade em Pesquisa, realizada em Lisboa em 2007, que destacou a necessidade de promover a conduta científica responsável globalmente. E a partir desse contexto, desenvolveram-se códigos de conduta e órgãos dedicados à promoção da ética na pesquisa, como o <italic>Office of Research Integrity</italic> (ORI) e o <italic>Committee on Publication Ethics</italic> (COPE). </p>
+			<p>Esses Comitês de ética, atuam no monitoramento e na aplicação de diretrizes éticas nas publicações científicas. O COPE oferece orientações que ajudam editores e revisores a lidarem com problemas éticos que surgem durante o processo de publicação, incluindo o plágio e a manipulação de dados. Essas diretrizes são importantes para padronizar as práticas de integridade científica em todo o mundo (<xref ref-type="bibr" rid="B5">COPE, 2017</xref>).</p>
+			<p>Manter a integridade científica é fundamental para a credibilidade da ciência e para o avanço do conhecimento. Quando os pesquisadores agem de acordo com os padrões éticos, promovem a confiança mútua dentro da comunidade científica e entre a ciência e a sociedade. Isso inclui a submissão de trabalhos a revisões por pares, a divulgação transparente de métodos e resultados, além da rejeição de práticas como a fabricação de dados, a falsificação de resultados ou a duplicação indevida de publicações. Essas práticas são essenciais para garantir que as descobertas sejam rigorosamente avaliadas e possam ser replicadas por outros cientistas.</p>
+			<p>A partir do novo contexto social pós pandêmico, com o crescimento da comunicação científica e a grande onda de infodemia, proliferação de informações, muitas vezes imprecisas, relacionadas a um evento (INFODEMIC, c2024), vimos a preocupação com a integridade científica voltar a ser debatida tanto por intelectuais quanto a população, diretamente afetada pela ciência produzida ao redor de todo o planeta terra. Esse fator reforça a necessidade de repensar e reconsiderar as estratégias de prevenção, orientação e detecção de má conduta, utilizadas para apoiar as práticas de integridade nos mais diversos ambientes acadêmicos.</p>
+			<p> O modelo atual no qual praticamos e medimos o prestígio de cientistas e pesquisadores, muitas vezes referida como &quot;<italic>publish or perish</italic>&quot; (publique ou pereça), caracterizada por uma pressão por publicar constantemente, também exerce um impacto significativo sobre o comportamento dos pesquisadores, muitas vezes impulsionada por fatores externos como critérios de promoção e financiamento. Essa exigência podendo inclusive incentivar a prática de crimes éticos, levando pesquisadores a manipularem dados, fabricarem resultados ou omitirem informações relevantes para uma fragmentação de artigos, o que coloca em risco a integridade das pesquisas científicas e a saúde daqueles impactados por tais conteúdo</p>
+			<p>Um conjunto crescente de evidências indica que percentagens substanciais de resultados publicados em alguns campos não são reproduzíveis. “Com mais de 10 mil artigos científicos retirados de circulação por causa de manipulação de dados, o ano de 2023 conquistou o vexatório recorde de maior número de retratações da história.” (<xref ref-type="bibr" rid="B22">Yamashita, 2024</xref>). Esta falta de reprodutibilidade parece ter muitas causas, que vão desde aspectos essenciais do processo de investigação ou diferenças nos procedimentos até a má conduta na investigação ou práticas de investigação prejudiciais. </p>
+			<p>Com esse aumento no número de retratações de artigos de periódicos, com análises mostrando que uma porcentagem significativa dessas retratações se deve a má conduta de pesquisa, &quot;A integridade científica é uma temática que gera certo desconforto no campo acadêmico, isto porque, uma série de questões emergem do processo de produção de divulgação científica&quot; ​​(<xref ref-type="bibr" rid="B18">Rocha et al., 2012</xref>, p.12).</p>
+			<p>O aumento das retratações não indica necessariamente que a incidência de má conduta também esteja aumentando; outros fatores, como um escrutínio mais vigilante por parte da comunidade e retratações que se tornam uma prática mais comum entre os periódicos, podem ser fatores contribuintes. Novas formas de práticas de pesquisa prejudiciais também estão aparecendo, como periódicos “predatórios”, que fazem pouca ou nenhuma revisão editorial ou controle de qualidade dos artigos, ao mesmo tempo que cobram dos autores taxas substanciais.</p>
+			<p>A má conduta em pesquisas e publicações científicas não são prejudiciais apenas ao processo editorial, e sim à ciência como um todo, quando passamos a ver a produção científica apenas como um produto, estamos nos desviando do seu propósito, a geração de conhecimento. E convém ressaltar que os debates sobre ética em pesquisa científica têm-se mostrado cada vez mais relevantes. Para o desenvolvimento deste trabalho reunimos a literatura da área, no qual seguindo o cronograma preestabelecido foi feita a leitura e fichamento de diversos dos materiais, com o objetivo de contribuir para a discussão e familiarização do tema, amadurecendo o pensamento crítico, e elencando pontos chaves que possam vir a contribuir para o melhor desenvolvimento do trabalho.</p>
+			<p>Nesse cenário, se destaca os seguintes materiais: “<italic>Influence of different journal publishing models in the presence and detection of scientific errors and misconduct</italic>”, escrito por José Luis Ortega Priego e Lorena Delgado-Quirós, e “<italic>The ethics of science: an introduction</italic>”, por David B. Resnik. Essas publicações apresentam desde uma conceituação base/fundamental sobre o que é a má conduta científica, como manipulação de dados, omissão/distorção de resultados, conflitos de interesse e plágio, especialmente abordados por Resnik até casos reais, relatados pelos demais autores. Ortega Priego e Delgado-Quirós contribuem ainda ao explicar os procedimentos de detecção de plágio em artigos submetidos e já publicados em revistas científicas, fornecendo informações sobre os tipos de periódicos mais suscetíveis a erros e sugestões para aprimorar continuamente os processos de detecção.</p>
+			<p>Uma das formas mais eficazes de prevenir o plágio e outras formas de má conduta é a adoção de boas práticas editoriais e o uso de ferramentas de detecção de similaridade textual, como o <italic>iThenticate</italic> e o <italic>Turnitin</italic>. Essas ferramentas ajudam a reduzir o plágio em manuscritos submetidos, mas elas devem ser complementadas por uma análise crítica humana para garantir que casos de plágio não detectados pelo <italic>software</italic> sejam identificados. Ademais, a combinação entre a detecção de texto similar e a revisão por pares é fundamental para manter a qualidade das publicações. </p>
+			<p>Embora o Brasil apresente um cenário promissor em pesquisa científica, com um número crescente de publicações em periódicos internacionais, observa-se uma carência de guias nacionais abrangentes e atualizados sobre boas práticas de publicação e ética científica. Essa lacuna pode gerar desafios e incertezas para pesquisadores brasileiros, especialmente aqueles em início de carreira, impactando negativamente a qualidade e a confiabilidade das pesquisas produzidas no país.</p>
+			<p> A falta de materiais de referência padronizados dificulta o acesso à informação sobre as normas e diretrizes éticas esperadas pela comunidade científica nacional e internacional. Isso pode levar à inadequação metodológica, falhas na comunicação dos resultados e, em casos mais graves, à má conduta científica. Para superar essa lacuna, é fundamental que instituições de pesquisa, sociedades científicas e agências de fomento se unam em um esforço conjunto para a elaboração e disseminação de guias brasileiros que contemplem as particularidades do contexto nacional e estejam em consonância com as melhores práticas internacionais. </p>
+			<p>Disponibilizar materiais acessíveis e em linguagem clara é fundamental para democratizar o conhecimento sobre as melhores práticas científicas, estimulando a excelência na pesquisa do Brasil e fortalecendo a reputação da ciência nacional em nível global. </p>
+			<p>O mais abrangente e atualizado guia sobre o assunto no país é o &quot;Código de boas práticas científicas&quot;. Produzido pela Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), uma das principais agências de fomento à pesquisa científica e tecnológica do Brasil, fundamentada com a missão de apoiar o desenvolvimento científico e tecnológico no Estado de São Paulo e promover a difusão do conhecimento e da cultura científica, possui um dos guias mais completos do país. Além de ser leitura obrigatória para todos os pesquisadores que recebem financiamento da FAPESP.</p>
+			<p>O manual segue diretrizes internacionais de excelência científica e está em conformidade com as leis brasileiras. Ele aborda uma variedade de temas essenciais, como a integridade científica, destacando a importância de princípios como honestidade, responsabilidade, imparcialidade, objetividade e justiça em todas as etapas da pesquisa. O plágio e a falsificação de dados também são amplamente discutidos, com orientações claras para prevenir e identificar essas práticas, além de fornecer medidas adequadas para lidar com esses problemas.</p>
+			<p>Outro tema relevante é o conflito de interesses, detalhando como identificá-lo e gerenciá-lo de maneira a não comprometer a integridade da pesquisa. O manual também discute as funções e responsabilidades dos Comitês de Ética em Pesquisa, enfatizando a importância da confidencialidade e da proteção dos dados dos participantes. Por fim, é destacada a necessidade de uma divulgação transparente e responsável dos resultados, tanto para a comunidade científica quanto para a sociedade em geral.</p>
+			<p>Esse exemplo ilustra a urgência de ampliar o debate sobre o tema da integridade científica no Brasil, incorporando-o de maneira sistemática ao processo de formação acadêmica. Como afirmam <xref ref-type="bibr" rid="B14">Pádua e Guilhem (2015</xref>), torna-se necessário um esforço conjunto para estabelecer padrões claros, que promovam a ciência e respeitem os produtores do conhecimento. Além disso, é importante definir punições adequadas para casos de má conduta em pesquisa, garantindo que comportamentos abusivos sejam identificados e corrigidos.</p>
+			<p>Com base nas discussões teóricas apresentadas, adotamos uma abordagem metodológica mista, combinando métodos qualitativos e quantitativos, com o objetivo de explorar de forma abrangente as diretrizes editoriais e suas implicações para a integridade científica.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Metodologia</title>
+			<p>O estudo adota uma abordagem mista, combinando métodos quantitativos e qualitativos, por meio da análise de conteúdo das diretrizes para submissão de artigos. Para coleta de dados, a amostra inclui 362 revistas e periódicos na área das Ciências da Saúde, ativos na base de dados SciELO (<italic>Scientific Electronic Library Online</italic>). A seleção foi baseada na classificação temática de assunto, visando uma cobertura ampla e representativa do campo. Os dados foram coletados entre 20 de setembro de 2023 e 16 de março de 2024, buscando garantir a atualidade e relevância das informações analisadas. Além do site da SciELO, foram consultados os domínios web oficiais de cada revista, PubMed, plataforma Sucupira e DOAJ (<italic>Directory of Open Access Journals</italic>) para coleta de dados complementares.</p>
+			<p>Após a coleta dos dados, referentes às diretrizes para autores, realizou-se uma leitura analítica dessas recomendações de cada periódico, com foco especial nas seções relacionadas à integridade científica, incluindo políticas de boas práticas e critérios de análise da originalidade científica. Para nortear a leitura, foi elaborado um protocolo de coleta de dados, contendo aproximadamente 26 campos, para sistematizar a coleta de informações sobre as diretrizes de cada periódico.</p>
+			<p>A análise dos dados coletados se deu por meio de técnicas de análise de conteúdo, buscando identificar padrões, temas e práticas recorrentes nas diretrizes de submissão relacionadas à integridade científica. Aspectos quantitativos, como a porcentagem de periódicos que utilizam <italic>softwares</italic> de detecção de plágio, foram complementados por uma análise qualitativa profunda das políticas específicas e da sua implementação prática. Foram incluídos na análise todos os periódicos ativos na área das Ciências da Saúde listados na SciELO, que disponibilizam suas diretrizes de submissão de artigos publicamente.</p>
+			<p>Para o processo de coleta, foi elaborada uma planilha contendo as principais informações a serem utilizadas na análise. Essa planilha incluiu informações como o título da revista, sua classificação no Qualis 2017-2020, a frequência de publicação, o país e o idioma das edições, bem como a adoção do modelo de acesso aberto. Foram registrados também aspectos éticos e editoriais, como a adesão às diretrizes do COPE, a existência de políticas explícitas de integridade científica, o tipo de licença utilizada e a presença de uma política de gestão de dados.</p>
+			<p>Além disso, foram investigadas práticas relacionadas à originalidade dos conteúdos, como a utilização de <italic>softwares</italic> de detecção de similaridade, especificando quais ferramentas são empregadas, a definição de um percentual mínimo aceitável de similaridade e a consideração da origem acadêmica dos artigos submetidos, como teses ou dissertações, na análise da similaridade textual. Outro critério avaliado foi a realização de uma análise crítica manual complementar ao uso do <italic>software</italic> de detecção de similaridade. Por fim, verificou-se se os periódicos aceitam a submissão de <italic>pre-prints</italic>, ampliando o entendimento sobre suas práticas editoriais.</p>
+			<p>A coleta de dados baseou-se na leitura analítica das diretrizes de cada periódico, com especial atenção às seções que tratam de integridade científica, políticas de boas práticas e critérios para a avaliação da originalidade científica.</p>
+			<p>Buscando o preenchimento de todo o protocolo de coleta de dados de pesquisa, com cerca de 26 campos, essa análise de conteúdo também foi realizada nos domínios web oficiais de cada revista bem como no PubMed (motor de busca de livre acesso à base de dados MEDLINE), plataforma Sucupira e DOAJ (<italic>Directory of Open Access Journals</italic>). Utilizamos o <italic>Microsoft Excel</italic>, <italic>software</italic> editor de planilhas, para organização e tratamento dos dados em formato de tabela.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados </title>
+			<p>Conforme discutido ao longo do artigo, a integridade científica é fundamentada em um conjunto de princípios e valores que orientam a conduta ética na pesquisa científica. Esses princípios abrangem a prática da honestidade, do rigor, da transparência e da responsabilidade em todas as etapas do processo de pesquisa, desde a coleta de dados até a publicação dos resultados.</p>
+			<p>A análise fornecida indica que a maioria dos periódicos analisados (79%, ou cerca de 275) possuem diretrizes éticas claras para publicações, embora algumas dessas diretrizes possam não estar totalmente detalhadas ou acessíveis para os autores. Essa adoção de políticas éticas, mesmo que parcial, é um indicador positivo de que há uma preocupação crescente com a integridade científica e o compromisso com a ética editorial, com muitos periódicos fazendo menção à adoção de protocolos estabelecidos por comitês renomados, como o ICMJE (<italic>International Committee of Medical Journal Editors</italic>) e o COPE (<italic>Committee on Publication Ethics</italic>).</p>
+			<p>A respeito da distribuição dos periódicos quanto à adesão ao COPE, revela uma diferença significativa entre os periódicos que mencionam a adesão às diretrizes éticas e aqueles que não a identificam. O gráfico mostra que 64% (n=230) periódicos possuem políticas de integridade documentadas ou fazem referência a elas, enquanto 36% (n=132) periódicos não identificam explicitamente essa adesão.</p>
+			<p>Essa disparidade pode ser vista como uma limitação, sugerindo que uma parcela considerável de periódicos ainda precisa melhorar a transparência de suas políticas éticas. Entretanto, o fato de uma grande maioria dos periódicos analisados já aderirem a práticas reconhecidas de integridade científica reflete um avanço importante na busca por maior rigor e responsabilidade na publicação científica. Assim, a promoção de diretrizes éticas mais acessíveis e documentadas é importante para garantir uma maior adesão e compreensão por parte dos autores, revisores e editores, o que pode melhorar fiscalização e prevenção de práticas de má conduta científica.</p>
+			<p>Na <xref ref-type="fig" rid="f1">Figura 1</xref> se destaca uma maior adesão às diretrizes do COPE por parte das revistas classificadas nos estratos Qualis A1, A2 e A3, reconhecidas como publicações de excelência pela CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior). Essas revistas são caracterizadas pela adoção de processos rigorosos em todas as etapas editoriais, especialmente no que diz respeito à avaliação por pares. Esse processo assegura que os manuscritos submetidos sejam avaliados com base em critérios rigorosos que incluem originalidade da pesquisa, que precisa trazer uma contribuição nova e relevante para a área de conhecimento; procedimentos metodológicos claros, cuja qualidade visa garantir a validade dos resultados apresentados; relevância dos resultados, que devem ser significativos para o campo científico; e clareza na escrita, essencial para facilitar a compreensão dos resultados pelos leitores.</p>
+			<p>Além disso, as revistas classificadas nos estratos superiores (A1, A2 e A3) demonstram um compromisso com diretrizes éticas, que garantem a confiabilidade, transparência e responsabilidade na publicação científica. Esse comprometimento fortalece a integridade científica e promove uma conscientização sobre a importância da ética na pesquisa, proporcionando credibilidade das descobertas científicas e para a confiança do público na ciência.</p>
+			<p>A figura 1 ainda mostra que periódicos de estratos A1 a B3 possuem uma maior adesão às diretrizes do COPE, com destaque para o estrato A1, onde se observa um número significativo de periódicos signatários. Por outro lado, os estratos mais baixos, como C, apresentam menor adesão às diretrizes éticas, sugerindo uma oportunidade de melhoria na padronização e na adoção de boas práticas editoriais. Essa discrepância pode ser explicada pelas exigências mais rigorosas de revistas de alto impacto, que necessitam garantir processos transparentes para manter sua posição de relevância no meio acadêmico. Em contraste, as revistas de menor impacto, que enfrentam menos pressão para a adoção dessas diretrizes, podem estar menos comprometidas com a adoção de políticas rigorosas de integridade científica.</p>
+			<p>Assim, a análise sugere que há uma correlação entre a classificação de excelência dos periódicos e o comprometimento com as diretrizes do COPE, evidenciando a importância de um compromisso ético sólido para assegurar a qualidade e a credibilidade das publicações científicas.</p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Classificação dos periódicos signatários e não-signatários da COPE por estrato Qualis. Fonte: Elaborado pelas autoras.</title>
+					</caption>
+					<graphic xlink:href="1562-4730-biblios-88-e001-gf1.jpg"/>
+				</fig>
+			<p>A análise dos dados revela que a adoção de <italic>softwares</italic> de detecção de similaridade textual é uma medida utilizada pelos periódicos como parte de suas práticas para prevenir a má conduta científica. Entre os 362 periódicos pesquisados, aproximadamente 65% (ou 237 periódicos) utilizam algum tipo de sistema de detecção de similaridade textual, como forma fiscalização de possíveis casos plágio. Isso demonstra que as ferramentas tecnológicas têm sido reconhecidas como recursos para garantir a originalidade das publicações e evitar a duplicação de conteúdo, um dos principais problemas relacionados à integridade científica.</p>
+			<p>Além disso, ao se observar as revistas que possuem diretrizes éticas estabelecidas, o percentual de utilização desses <italic>softwares</italic> é mais elevado, chegando a 81%. Isso sugere que a maioria dos periódicos que adota políticas éticas também faz uso dessas ferramentas como parte de suas boas práticas editoriais. Essa correlação reforça a importância da utilização de tecnologias de similaridade de conteúdo como um componente na promoção de transparência, responsabilidade e integridade científica. A proporção de periódicos que adotam essas ferramentas em conjunto com diretrizes éticas pode indicar um esforço contínuo por parte dos editores em assegurar a credibilidade dos artigos publicados. Isso reflete o compromisso das revistas científicas em aderir a padrões éticos e combater práticas de má conduta, como o plágio.</p>
+			<p>A análise dos dados da <xref ref-type="fig" rid="f2">Figura 2</xref> mostra a distribuição dos <italic>softwares</italic> de detecção de similaridade utilizados pelos periódicos, destacando que o <italic>CrossRef Similarity Check</italic> é o mais utilizado, sendo adotado por 14% dos periódicos analisados. Logo depois, está o iThenticate, com 13% de adoção, seguido pelo <italic>Turnitin</italic>, utilizado por 9% dos periódicos. Estes três sistemas são reconhecidos por sua eficácia na detecção de similaridade textual e são comumente usados por periódicos científicos para assegurar a originalidade dos artigos submetidos.</p>
+			<p>Aliás, 50% dos periódicos não identificam explicitamente qual <italic>software</italic> de similaridade utilizam, o que pode indicar uma falta de transparência em alguns processos editoriais. Esse dado ressalta a importância de os periódicos divulgarem claramente as ferramentas que utilizam, para assegurar maior confiança no processo de editoração e checagem de má conduta.</p>
+			<p>A parcela de 14% na categoria &quot;Outros&quot; sugere que alguns periódicos podem estar utilizando ferramentas alternativas de detecção de similaridade de conteúdo, pois destacam nas diretrizes que fazem uso de <italic>software</italic> de detecção, mas não explicitam qual. </p>
+			<p>Desse modo, os resultados reforçam a relevância do uso de ferramentas de detecção de similaridade como parte das diretrizes editoriais para garantir a integridade científica e a originalidade dos manuscritos publicados.</p>
+			<p>
+				<fig id="f2">
+					<label>Figura 2</label>
+					<caption>
+						<title>Distribuição dos <italic>softwares</italic> de similaridade utilizados pelos periódicos. Fonte: Elaborado pelas autoras.</title>
+					</caption>
+					<graphic xlink:href="1562-4730-biblios-88-e001-gf2.jpg"/>
+				</fig>
+			</p>
+			<p>A <xref ref-type="fig" rid="f3">Figura 3</xref> apresenta os percentuais de similaridade aceitos pelos periódicos científicos, demonstrando que existe uma variação considerável entre os critérios adotados para determinar a originalidade dos manuscritos submetidos. Embora a maioria dos periódicos exija que os autores declarem a originalidade de seus trabalhos e indiquem se são baseados em materiais anteriormente publicados, alguns periódicos permitem uma certa margem de similaridade textual.</p>
+			<p>A análise dos dados revela que 286 periódicos não especificam claramente o percentual de similaridade aceito. Em contraste, 38 periódicos não toleram qualquer nível de similaridade, demonstrando uma política editorial rigorosa em relação à originalidade do conteúdo. Um número menor de periódicos, como observado nas categorias de até 15%, 16%, 20%, e outras faixas, aceita uma porcentagem limitada de similaridade, geralmente em casos de citações, referências ou trechos que não configuram plágio direto. A aceitação de uma margem de similaridade, especialmente em percentuais mais elevados (como até 25% ou 30%), sugere que algumas revistas permitem certa flexibilidade quanto ao uso de material devidamente referenciado. </p>
+			<p>Assim, se ressalta a importância de comunicar as políticas de similaridade para os autores, de forma que eles possam entender os limites aceitáveis e garantir que seus manuscritos atendam às exigências editoriais. </p>
+			<p>
+				<fig id="f3">
+					<label>Figura 3</label>
+					<caption>
+						<title>Percentuais de Similaridade Aceitos pelos Periódicos Científicos. Fonte: Elaborado pelas autoras.</title>
+					</caption>
+					<graphic xlink:href="1562-4730-biblios-88-e001-gf3.jpg"/>
+				</fig>
+			</p>
+			<p>Na eventualidade de surgir a suspeita de plágio, as revistas signatárias devem seguir as orientações do COPE, que estipula que os revisores estão encarregados de reportar qualquer indício de fraude ou plágio nos estudos sob análise. Se confirmado o plágio, serão adotadas as medidas adequadas para punir a violação dos princípios éticos defendidos pela revista. Contudo, alguns periódicos, se isentam de qualquer tipo de responsabilidade quanto a práticas não honestas relacionadas à propriedade intelectual, através de cartas de endosso de comitês de ética que aprovam as pesquisas, também exigem termos de responsabilidade do autor pelo conteúdo de suas publicações.</p>
+			<p>Embora <italic>softwares</italic> de similaridade se tornem ferramentas valiosas na luta contra o plágio, não são infalíveis e podem apresentar falhas na detecção de plágio, não detectando paráfrases, alteração na ordem das palavras, inserção de sinônimos ou utilização técnicas de reescrita automática. Dessa forma, uma análise humana crítica em conteúdo é de grande importância, no entanto podemos observar que essa é uma prática adotada por poucas revistas, cerca de 40% (n=144).</p>
+			<p>A análise humana mencionada neste contexto não se refere ao processo tradicional de revisão por pares, que envolve especialistas externos selecionados pelos editores para avaliar e melhorar o manuscrito. Trata-se de um procedimento adicional realizado em situações específicas, nas quais uma ferramenta de detecção de similaridade indica um percentual de semelhança com outros trabalhos já publicados que excede o limite estabelecido pela revista. Nesses casos, realiza-se uma avaliação manual e individualizada para determinar a originalidade do trabalho e decidir sobre a conveniência de sua publicação.</p>
+			<p>Esse tipo de análise é essencial para identificar situações que podem não ser detectadas pelo <italic>software</italic>, como casos de autoplágio (reutilização substancial de material pelo próprio autor, sem a devida citação) ou similaridades justificáveis, como aquelas decorrentes de trabalhos acadêmicos prévios (dissertações ou teses). Assim, a avaliação humana complementa a tecnologia, assegurando que a decisão editorial seja informada por um julgamento crítico e contextual.</p>
+			<p>Vale ressaltar que, cerca de 19% (n=70) das revistas levam em conta que o artigo submetido possa ser resultado de trabalho acadêmico (tese ou dissertação), o que poderia aumentar o percentual de similaridade em uma análise automatizada. </p>
+			<p>As diretrizes éticas não devem se limitar apenas à detecção de plágio, pois há outras maneiras pelas quais os cientistas podem agir desonestamente, como a distorção da verdade, manipulação de dados, conflito de interesses e outras. Esse mapeamento, <xref ref-type="fig" rid="f4">figura 4</xref>, permitiu identificar quais os países em que há uma maior aderência às diretrizes éticas pelas revistas. Os dados revelam uma distribuição desigual entre os países, com o Brasil em destaque, possuindo 84 periódicos. Esse número mais elevado indica o aumento da produção científica na área da saúde e uma provável preocupação em estabelecer diretrizes de integridade científica para os periódicos do Scielo. Seguindo o Brasil, países como Colômbia, Cuba e Espanha apresentam números consideráveis, com 34, 31 e 31 periódicos que possuem tais diretrizes, respectivamente. Esses dados sugerem que esses países possuem uma infraestrutura editorial e uma abordagem em relação às boas práticas científicas, incluindo o uso de ferramentas de detecção de plágio e a gestão de conflitos de interesse.</p>
+			<p>A África do Sul, com 16 periódicos, reflete o crescimento da produção científica e a adoção de políticas de integridade científica no continente africano. Países como Argentina, México, Chile, Portugal, Peru, e Uruguai, que variam entre 14 e 8 periódicos, demonstram também um compromisso com a incorporação de diretrizes éticas visando a melhoria da produção científica na área da saúde. Por outro lado, países como Venezuela, Bolívia e Estados Unidos<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> apresentam uma presença reduzida, com menos de 3 periódicos no SciELO. Isso pode ser um indicativo de desafios na adoção de diretrizes rigorosas de integridade científica ou de uma menor participação na rede SciELO, particularmente no contexto da saúde, especialmente em relação aos Estados Unidos.</p>
+			<p>Essa distribuição desigual entre os países pode refletir diferenças nas políticas de adesão às diretrizes de integridade científica, na infraestrutura editorial e no apoio governamental à produção científica. Países com um maior número de periódicos tendem a ter maior influência na disseminação de diretrizes éticas, enquanto aqueles com menos periódicos podem enfrentar obstáculos na implementação e monitoramento eficaz dessas políticas. Isso destaca a importância de promover o fortalecimento das diretrizes de integridade científica, especialmente nos países com menor representatividade, para garantir uma produção científica mais robusta e confiável em escala global.</p>
+			<p>
+				<fig id="f4">
+					<label>Figura 4</label>
+					<caption>
+						<title>Distribuição dos países dos periódicos do SciELO na área de saúde em relação às diretrizes de integridade científica. Fonte: Elaborado pelas autoras.</title>
+					</caption>
+					<graphic xlink:href="1562-4730-biblios-88-e001-gf4.jpg"/>
+				</fig>
+			</p>
+			<p>A relação entre ética e acesso aberto está fundamentada em princípios que promovem a justiça, a transparência e o benefício social no contexto da produção e disseminação do conhecimento científico. Conforme destacado por <xref ref-type="bibr" rid="B15">Parker (2013</xref>), o modelo de acesso aberto tem se tornado uma prática amplamente adotada, especialmente em áreas financiadas publicamente, promovendo o compartilhamento de conhecimento e reduzindo barreiras de acesso a resultados de pesquisa. Tal prática é consistente com os achados deste estudo, em que 357 das 362 revistas analisadas aderem ao modelo de acesso aberto, corroborando a relevância do acesso aberto na disseminação de conhecimento acadêmico e científico​.</p>
+			<p>A gestão de dados deve estar em conformidade com o Regulamento Geral de Proteção de Dados (GDPR), as diretrizes da COPE e os princípios da Ciência Aberta, que buscam tornar os dados científicos mais acessíveis e reutilizáveis. Procedimentos realizados e resultados parciais obtidos no decorrer de uma pesquisa devem ser registrados, conservados e disponibilizados pelos pesquisadores de forma precisa, completa e segura.</p>
+			<p>No escopo desta pesquisa, foi possível identificar que aproximadamente 45,86% (n=166) das revistas analisadas possuem diretrizes e orientações sobre a gestão de materiais documentados. Todas essas diretrizes enfatizam a necessidade de que os pesquisadores registrem os dados de maneira completa e confiável, garantindo o armazenamento seguro e a acessibilidade desses dados mesmo após anos da publicação. Algumas orientações incluem, por exemplo, o registro de ensaios clínicos recomendados pela OMS e pelo ICMJE, bem como trabalhos com resultados de estudos envolvendo seres humanos e/ou animais. Esses estudos só podem ser publicados se houver evidências de que todos os princípios éticos foram seguidos durante a investigação, o que inclui a apresentação obrigatória de um protocolo de pesquisa aprovado por um comitê de ética institucional (como exigido pela Resolução 466/12 do Conselho Nacional de Saúde, no caso de pesquisas com seres humanos, ou pelas diretrizes da Comissão de Ética no Uso de Animais - CEUA, no caso de experimentos com animais).</p>
+			<p>A acessibilidade dos dados não deve ser limitada por razões éticas ou legais. De modo geral, eles devem estar disponíveis para verificação e replicação por outros pesquisadores. Essas práticas fortalecem a integridade da pesquisa e promovem uma ciência aberta e verificável.</p>
+			<p>Com base nos resultados desta pesquisa, elaborou-se um mapa conceitual que destaca os principais temas presentes nas diretrizes éticas dos periódicos analisados. O mapa conceitual, ilustrado na <xref ref-type="fig" rid="f5">Figura 5</xref>, foi elaborado a partir de uma análise de conteúdo das diretrizes para autores e está estruturado em quatro categorias principais: Plágio, Estrutura de Suporte: Comitês e Organizações, Processos e Procedimentos, e Consequências e Sanções. Cada uma dessas temáticas aborda aspectos fundamentais que orientam a integridade científica no contexto das publicações acadêmicas, proporcionando uma visão clara das responsabilidades e normas que regem a ética na produção científica.</p>
+			<p>Na categoria Plágio, o foco está no uso de ferramentas de detecção de similaridade textual, como <italic>iThenticate</italic> e <italic>Crossref Similarity Check</italic>, que são utilizadas para garantir a originalidade dos manuscritos. Além disso, destaca-se a responsabilidade dos editores em realizar uma avaliação objetiva dos trabalhos e detectar eventuais erros, enquanto os autores devem notificar as limitações dos próprios trabalhos e declarar possíveis conflitos de interesse.</p>
+			<p>A Estrutura de Suporte: Comitês e Organizações enfatiza a importância das entidades reguladoras que promovem e asseguram a disseminação de diretrizes para a integridade científica. Organizações como o Comitê de Ética em Publicações (COPE), o Comitê Internacional de Editores de Revistas Médicas (ICMJE), o Conselho de Editores Científicos (CSE) e a Associação Mundial de Editores Médicos (WAME) são mencionados como fundamentais na promoção de boas práticas editoriais e éticas.</p>
+			<p>Na categoria Processos e Procedimentos, o destaque recai sobre a revisão por pares, que garante a objetividade e confidencialidade na avaliação dos artigos. A gestão de conflitos de interesse, tanto de revisores quanto de autores, é relevante, sendo necessária a identificação e divulgação desses conflitos para assegurar a transparência no processo editorial. Os revisores também são importantes na avaliação objetiva dos trabalhos e na correção de erros.</p>
+			<p>
+				<fig id="f5">
+					<label>Figura 5</label>
+					<caption>
+						<title>Análise de diretrizes para submissão. Fonte: Elaborado pelas autoras.</title>
+					</caption>
+					<graphic xlink:href="1562-4730-biblios-88-e001-gf5.jpg"/>
+				</fig>
+			</p>
+			<p>Por fim, a seção Consequências e Sanções aborda as medidas corretivas e punitivas aplicáveis em caso de má conduta científica, como o plágio e a não declaração de conflitos de interesse. As ações corretivas incluem a retratação do artigo ou correção do manuscrito, enquanto a rejeição da submissão também pode ser uma consequência, quando a falta de integridade é identificada antes da publicação. </p>
+			<p>Esse mapa conceitual reflete um sistema estruturado de diretrizes éticas, que integra a responsabilidade dos diversos atores envolvidos no processo editorial, garantindo que a publicação científica seja conduzida de forma ética, transparente e alinhada aos princípios da integridade científica.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusões </title>
+			<p>O debate sobre integridade científica se faz fundamental para o desenvolvimento qualitativo da ciência. Dessa forma ao analisarmos as diretrizes de submissão de revistas científicas da área da saúde, além de compreender e abordar suas limitações em relação às práticas de publicação adequadas também é possível analisar suas conformidades, quais são os métodos critérios utilizados pelos periódicos, e se estão de acordo com as boas práticas científicas. </p>
+			<p>Buscamos destacar a importância das diretrizes para a promoção da integridade e boas práticas de publicação científica, que desempenham o papel de agentes de disseminação e promoção da ética e da qualidade da ciência. Revistas científicas são grandes mediadoras, que ao fornecerem diretrizes, recomendações, recursos e apoio para pesquisadores, e outros profissionais envolvidos na comunicação científica contribuem para o seu status de excelência.</p>
+			<p>A partir da amostra coletada neste estudo, foi possível observar que a falta de transparência em suas diretrizes, muitas das organizações não possuíam, ou disponibilizavam suas políticas/ética editoriais em sua totalidade, deixando questões em aberto a respeito do quais <italic>softwares</italic> de similaridade são usados, quais os seus percentuais de similaridade máximo aceito em suas artigo etc. Não foi possível identificar se tais lacunas se deviam a falta de orientações sobre o assunto, a decisão do periódico de não divulgar tais informações ou apenas uma falta de atualização em suas mídias sociais. Contudo podemos observar que revistas analisadas em sua grande maioria possuem políticas explícitas e em fácil acesso para consulta, disponibilizadas em seus canais de comunicação. A majoritária parte dos agentes explorados neste trabalho se mostrou favorável à adoção dos princípios de transparência e boas práticas de publicação, a alta taxa de filiação ao Comitê de Ética em Publicações (COPE), sendo uma expressão desse fato.</p>
+			<p>Evidentemente o plágio, como uma das formas de má conduta mais conhecida, é salientada, desde a falta de citação até a apropriação de ideias sem os devidos créditos. Em muitas outras pesquisas vemos que os sistemas de <italic>software</italic> para detecção de plágio é uma das principais ações adotas pelas instituições para barrar tais condutas. No entanto, nos convém ressaltar que os <italic>softwares</italic> antiplágio não devem ser usados como único método de avaliação, mas sim como um complemento à análise crítica humana.</p>
+			<p>A análise humana é indispensável para a verificação de plágio, a expertise humana, aliada ao uso estratégico de <italic>softwares</italic>, se torna uma contribuição ainda mais valiosa e eficaz já que os <italic>softwares</italic> não conseguem analisar o contexto do texto, como a intenção do autor, o tipo de trabalho e as normas da área de estudo.</p>
+			<p>Adentrando mais ainda nas análises das diretrizes, contempladas nos manuais, ressaltamos responsabilidades éticas intrínsecas aos autores e instituições pelo conteúdo desenvolvidos, sejam eles na gestão de conflitos de interesse, sendo necessária a identificação e divulgação desses conflitos para assegurar a transparência em processos editoriais, como também em pesquisas que envolvem seres humanos ou animais, em que se faz necessário a aprovação prévia dos comitês de ética da área correlata, ou em pesquisas em se jugam de natureza sensível.</p>
+			<p>Além disso, também foi possível observar que diversos dos periódicos analisados estão antenados às mudanças e já se antecipam sobre o uso de inteligência artificial, as famosas IA's, tanto para a manipulação de dados, quanto para a preservação da propriedade intelectual dos autores. A princípio não adotam uma posição de total objeção, validando certas atividades como assistência em idiomas, busca por literatura e inclusive ser usada durante o processo de escrita, revisão, edição e normalização. Se devidamente sinalizada e seguindo as políticas de plágio vigentes os autores podem submeter seus trabalhos não sendo prejudicados durante o processo de aceite.</p>
+			<p>Ao analisarmos de códigos e recomendações internacionais, como o COPE, comitê ao qual grande parte da amostra de revistas analisada se mostra em conformidade, já lançaram novas recomendações que buscam orientar pesquisadores e instituições sobre o uso ético dessas ferramentas. Validando determinadas atividades, como a assistência em tradução, busca por literatura científica e apoio nos processos de escrita, revisão, edição e normalização de textos (<xref ref-type="bibr" rid="B6">COPE, 2023</xref>). </p>
+			<p>A Elsevier, uma das maiores editoras especializadas em conteúdo científico de acesso aberto do mundo, com mais de 21 milhões de artigos e capítulos publicados. Dentre sua política se atenta ao uso nos seguintes segmentos: O uso de IA generativa e tecnologias assistidas por IA na escrita para a Elsevier e O uso de IA generativa e ferramentas assistidas por IA em figuras, imagens e obras de arte. </p>
+			<p>Em suas orientações ressaltam que o uso de tais tecnologias devem limitar apenas a melhoria da legibilidade e linguagem do trabalho, não podendo “produzir insights científicos, pedagógicos ou médicos, tirar conclusões científicas ou fornece recomendações clínicas”, em casos de uso devem sinalizar o uso das mesmas e uma declaração aparecerá no trabalho publicado indicando o uso das ferramentas (<xref ref-type="bibr" rid="B8">Elsevier, c2024</xref>).</p>
+			<p>Dado o exposto, se destaca o papel dos comitês e organizações como a COPE (Comitê de Ética na Publicação), ICMJE (Comitê Internacional de Editores de Revistas Médicas), CSE (Conselho de Editores Científicos) e WAME (Associação Mundial de Editores Médicos), que desempenham um papel crucial na promoção da ética e da qualidade na publicação científica. Eles são grandes mediadores e fornecem diretrizes, recomendações, recursos e apoio para pesquisadores, editores e outros profissionais envolvidos na comunicação científica. Promovendo a ética e a qualidade na publicação de pesquisas, transparência em todas as etapas do processo de publicação.</p>
+			<p>Levando-se em consideração os aspectos expostos fica perceptível a preocupação das revistas científicas com as boas práticas científicas, considerando que grande parte das revistas analisadas possuem políticas explícitas e se mantém em constante evolução, é evidente que a lacunas que merecem mais atenção, sejam em melhorias de processos quanto em posicionamentos éticos. Acreditamos que este trabalho conseguiu atender o seu objetivo, ao qual pretendia fornecer uma visão aprofundada das práticas e diretrizes atuais nos periódicos de saúde.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referências</title>
+			<ref id="B1">
+				<mixed-citation>ACADEMIA BRASILEIRA DE CIÊNCIAS. Rigor e integridade na condução da pesquisa científica: guia de recomendações de práticas responsáveis. Boletim UFMG, Belo Horizonte, MG, ano 40, n. 1848, encarte, 2013. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ufmg.br/boletim/bol1848/ecapa.shtml">https://www.ufmg.br/boletim/bol1848/ecapa.shtml</ext-link>
+					</comment>. Acesso em: 22. jul. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>ACADEMIA BRASILEIRA DE CIÊNCIAS</collab>
+					</person-group>
+					<article-title>Rigor e integridade na condução da pesquisa científica: guia de recomendações de práticas responsáveis</article-title>
+					<source>Boletim UFMG</source>
+					<publisher-loc>Belo Horizonte, MG</publisher-loc>
+					<volume>40</volume>
+					<issue>1848</issue>
+					<year>2013</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ufmg.br/boletim/bol1848/ecapa.shtml">https://www.ufmg.br/boletim/bol1848/ecapa.shtml</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-07-22">22. jul. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>BRASIL. Lei nº 9.610, de 19 de fevereiro de 1998. Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências. Diário Oficial da União: seção 1, Brasília, DF, ano 136, n. 36, p. 3-9, 20 fev. 1998. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/leis/l9610.htm">http://www.planalto.gov.br/ccivil_03/leis/l9610.htm</ext-link>
+					</comment>. Acesso em 4 mar. 2024.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>BRASIL</collab>
+					</person-group>
+					<source>Lei nº 9.610, de 19 de fevereiro de 1998. Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências</source>
+					<series>Diário Oficial da União</series>
+					<publisher-loc>Brasília</publisher-loc>
+					<volume>136</volume>
+					<issue>36</issue>
+					<fpage>3</fpage>
+					<lpage>9</lpage>
+					<year>1998</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/leis/l9610.htm">http://www.planalto.gov.br/ccivil_03/leis/l9610.htm</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-04">4 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>CBPF. Guia de boas práticas nas atividades de pesquisa. Anexo da Portaria n. 8, de 27 de abril de 2015. Rio de Janeiro: CBPF, 24 abr. 2015. 7 p. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.gov.br/cbpf/pt-br/acesso-a-informacao/guia-de-boas-praticas-cientificas">https://www.gov.br/cbpf/pt-br/acesso-a-informacao/guia-de-boas-praticas-cientificas</ext-link>
+					</comment>. Acesso em: 22. jul. 2024.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>CBPF</collab>
+					</person-group>
+					<source>Guia de boas práticas nas atividades de pesquisa.</source>
+					<series>Anexo da Portaria </series>
+					<issue>8</issue>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>CBPF</publisher-name>
+					<day>24</day>
+					<month>04</month>
+					<year>2015</year>
+					<fpage>7</fpage>
+					<lpage>7</lpage>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.gov.br/cbpf/pt-br/acesso-a-informacao/guia-de-boas-praticas-cientificas">https://www.gov.br/cbpf/pt-br/acesso-a-informacao/guia-de-boas-praticas-cientificas</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-07-22">Acesso em: 22. jul. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>FAPESP. Código de boas práticas científicas. São Paulo, SP: FAPESP, 2014. 50 p. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://fapesp.br/boaspraticas/2014/FAPESP-Codigo_de_Boas_Praticas_Cientificas.pdf">https://fapesp.br/boaspraticas/2014/FAPESP-Codigo_de_Boas_Praticas_Cientificas.pdf</ext-link>
+					</comment>. Acesso em: 22. jul. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>FAPESP</collab>
+					</person-group>
+					<source>Código de boas práticas científicas</source>
+					<publisher-loc>São Paulo, SP</publisher-loc>
+					<publisher-name>FAPESP</publisher-name>
+					<year>2014</year>
+					<fpage>50</fpage>
+					<lpage>50</lpage>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://fapesp.br/boaspraticas/2014/FAPESP-Codigo_de_Boas_Praticas_Cientificas.pdf">https://fapesp.br/boaspraticas/2014/FAPESP-Codigo_de_Boas_Praticas_Cientificas.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-07-22">22. jul. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>COMMITTEE ON PUBLICATION ETHICS (COPE). Guidelines on good publication practice. (Canada): Farname Inc., 2017. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://farname-inc.com/post-2/f53d32c/Committee-on-Publication-Ethics-COPE-GUIDELINES-ON-GOOD-PUBLICATION-PRACTICE">https://farname-inc.com/post-2/f53d32c/Committee-on-Publication-Ethics-COPE-GUIDELINES-ON-GOOD-PUBLICATION-PRACTICE</ext-link>
+					</comment>. Acesso em: 3 abr. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>COMMITTEE ON PUBLICATION ETHICS (COPE)</collab>
+					</person-group>
+					<source>Guidelines on good publication practice</source>
+					<publisher-loc>(Canada)</publisher-loc>
+					<publisher-name>Farname Inc</publisher-name>
+					<year>2017</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://farname-inc.com/post-2/f53d32c/Committee-on-Publication-Ethics-COPE-GUIDELINES-ON-GOOD-PUBLICATION-PRACTICE">https://farname-inc.com/post-2/f53d32c/Committee-on-Publication-Ethics-COPE-GUIDELINES-ON-GOOD-PUBLICATION-PRACTICE</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-04-03">3 abr. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>COMMITTEE ON PUBLICATION ETHICS (COPE). Artificial intelligence and authorship. England: COPE, 27 feb. 2023. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/news/artificial-intelligence-and-authorship">https://publicationethics.org/news/artificial-intelligence-and-authorship</ext-link>
+					</comment>. Acesso em: 8 nov. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>COMMITTEE ON PUBLICATION ETHICS (COPE)</collab>
+					</person-group>
+					<source>Artificial intelligence and authorship</source>
+					<publisher-loc>England</publisher-loc>
+					<publisher-name>COPE</publisher-name>
+					<day>27</day>
+					<month>02</month>
+					<year>2023</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/news/artificial-intelligence-and-authorship">https://publicationethics.org/news/artificial-intelligence-and-authorship</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-08">8 nov. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>COUGHLIN, S. S.; BARKER, A.; DAWSON, A. Ethics and scientific integrity in public health, epidemiological and clinical research. Public Health Reviews, Switzerland, v. 34, n. 5, p. 1-13, 11 jun. 2012. DOI: https://doi.org/10.1007/BF03391657. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publichealthreviews.biomedcentral.com/articles/10.1007/BF03391657">https://publichealthreviews.biomedcentral.com/articles/10.1007/BF03391657</ext-link>
+					</comment>Acesso em: 24 mar. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>COUGHLIN</surname>
+							<given-names>S. S.</given-names>
+						</name>
+						<name>
+							<surname>BARKER</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>DAWSON</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<article-title>Ethics and scientific integrity in public health, epidemiological and clinical research</article-title>
+					<source>Public Health Reviews, Switzerland</source>
+					<volume>34</volume>
+					<issue>5</issue>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+					<year>2012</year>
+					<pub-id pub-id-type="doi">https://doi.org/10.1007/BF03391657</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publichealthreviews.biomedcentral.com/articles/10.1007/BF03391657">https://publichealthreviews.biomedcentral.com/articles/10.1007/BF03391657</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-24">24 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>ELSEVIER. The use of generative AI and AI-assisted technologies in writing for Elsevier. (<italic>S. l.</italic>): Elsevier, c2024. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier">https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier</ext-link>
+					</comment>. Acesso em: 12 de abr. 2024.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>ELSEVIER</collab>
+					</person-group>
+					<source>The use of generative AI and AI-assisted technologies in writing for Elsevier</source>
+					<publisher-name>Elsevier</publisher-name>
+					<size units="pages">c2024</size>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier">https://www.elsevier.com/about/policies-and-standards/the-use-of-generative-ai-and-ai-assisted-technologies-in-writing-for-elsevier</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-04-12">12 de abr. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>INFODEMIC. <italic>In:</italic> OXFORD English Dictionary. (England): Oxford University Press, c2024. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.oed.com/view/Entry/88407009">https://www.oed.com/view/Entry/88407009</ext-link>
+					</comment>. Acesso em: 13 set. 2024</mixed-citation>
+				<element-citation publication-type="webpage">
+					<source>INFODEMIC</source>
+					<person-group person-group-type="author">
+						<collab>OXFORD English Dictionary</collab>
+					</person-group>
+					<publisher-loc>(England)</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+					<size units="pages">c2024</size>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.oed.com/view/Entry/88407009">https://www.oed.com/view/Entry/88407009</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-09-13">13 set. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>KWASNICKA, D.; HOOR, G.; DONGEN, A.; GRUSZCZYŃSKA, E.; HAGGER, M.; HAMILTON, K.; HANKONEN, N.; HEINO, M.; KOTZUR, M.; NOONE, C.; ROTHMAN, A.; TOOMEY, E.; WARNER, L.; KOK, G.; PETERS, G.; LUSZCZYNSKA, A. Promoting scientific integrity through open science in health psychology: results of the Synergy Expert Meeting of the European health psychology society. Health Psychology Review, United Kingdom, v. 15, n. 3, p. 333-349, 19 nov. 2020. DOI: https://doi.org/10.1080/17437199.2020.1844037. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1844037#abstract">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1844037#abstract</ext-link>
+					</comment>. Acesso em: 11 jul. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>KWASNICKA</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>HOOR</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>DONGEN</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>GRUSZCZYŃSKA</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>HAGGER</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>HAMILTON</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>HANKONEN</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>HEINO</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>KOTZUR</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>NOONE</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>ROTHMAN</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>TOOMEY</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>WARNER</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>KOK</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>PETERS</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>LUSZCZYNSKA</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<article-title>Promoting scientific integrity through open science in health psychology: results of the Synergy Expert Meeting of the European health psychology society</article-title>
+					<source>Health Psychology Review</source>
+					<publisher-loc>United Kingdom</publisher-loc>
+					<volume>15</volume>
+					<issue>3</issue>
+					<fpage>333</fpage>
+					<lpage>349</lpage>
+					<year>2020</year>
+					<pub-id pub-id-type="doi">10.1080/17437199.2020.1844037</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1844037#abstract">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1844037#abstract</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-07-11">11 jul. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>MERTON, R. Teoria social y estructura social. México: FCE, 1964.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>MERTON</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>Teoria social y estructura social</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FCE</publisher-name>
+					<year>1964</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>METCALFE, J.; WHEAT, K.; MUNAFÒ, M.; PARRY, J. Research integrity: a landscape study. United Kingdom: Vitae, jun. 2020. 27 p. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-ResearchIntegrityLandscapeStudy.pdf">https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-ResearchIntegrityLandscapeStudy.pdf</ext-link>
+					</comment>. Acesso em: 24 mar. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>METCALFE</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>WHEAT</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>MUNAFÒ</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>PARRY</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<source>Research integrity: a landscape study</source>
+					<publisher-loc>United Kingdom</publisher-loc>
+					<publisher-name>Vitae</publisher-name>
+					<year>2020</year>
+					<fpage>27</fpage>
+					<lpage>27</lpage>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-ResearchIntegrityLandscapeStudy.pdf">https://www.ukri.org/wp-content/uploads/2020/10/UKRI-020920-ResearchIntegrityLandscapeStudy.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-24">24 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>ORTEGA PRIEGO, J. L; DELGADO-QUIRÓS, L. La influencia de diferentes modelos de publicación en la presencia y detección de errores y fraude científico. Revista Española de Documentación Científica, España, v. 46, n. 4, p. e374, oct./dic. 2023. DOI: https://doi.org/10.3989/redc.2023.4.1417. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://redc.revistas.csic.es/index.php/redc/article/view/1417">https://redc.revistas.csic.es/index.php/redc/article/view/1417</ext-link>
+					</comment>. Acesso em: 4 mar. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>ORTEGA PRIEGO</surname>
+							<given-names>J. L</given-names>
+						</name>
+						<name>
+							<surname>DELGADO-QUIRÓS</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<article-title>La influencia de diferentes modelos de publicación en la presencia y detección de errores y fraude científico</article-title>
+					<source>Revista Española de Documentación Científica</source>
+					<publisher-loc>España</publisher-loc>
+					<volume>46</volume>
+					<issue>4</issue>
+					<size units="pages">e374</size>
+					<year>2023</year>
+					<pub-id pub-id-type="doi">10.3989/redc.2023.4.1417</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://redc.revistas.csic.es/index.php/redc/article/view/1417">https://redc.revistas.csic.es/index.php/redc/article/view/1417</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-04">4 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>PÁDUA, G. C. C.; GUILHEM, D. Integridade científica e pesquisa em saúde no Brasil: revisão da literatura. Revista Bioética, Brasília, DF, v. 23, n. 1, p. 124-138, jan./abr. 2015. DOI: https://doi.org/10.1590/1983-80422015231053. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/bioet/a/Y4PhdYmqhqq6wScFYPBdSsr/?lang=pt">https://www.scielo.br/j/bioet/a/Y4PhdYmqhqq6wScFYPBdSsr/?lang=pt</ext-link>
+					</comment>. Acesso em: 22 jun. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>PÁDUA</surname>
+							<given-names>G. C. C.</given-names>
+						</name>
+						<name>
+							<surname>GUILHEM</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<article-title>Integridade científica e pesquisa em saúde no Brasil: revisão da literatura</article-title>
+					<source>Revista Bioética</source>
+					<publisher-loc>Brasília, DF</publisher-loc>
+					<volume>23</volume>
+					<issue>1</issue>
+					<fpage>124</fpage>
+					<lpage>138</lpage>
+					<year>2015</year>
+					<pub-id pub-id-type="doi">10.1590/1983-80422015231053</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/bioet/a/Y4PhdYmqhqq6wScFYPBdSsr/?lang=pt">https://www.scielo.br/j/bioet/a/Y4PhdYmqhqq6wScFYPBdSsr/?lang=pt</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-06-22">22 jun. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>PARKER, M. The ethics of open access publishing. BMC Medical Ethics, United Kingdom, v. 14, n. 16, p. 1-4, 22 mar. 2013. DOI: https://doi.org/10.1186/1472-6939-14-16. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://bmcmedethics.biomedcentral.com/articles/10.1186/1472-6939-14-16">https://bmcmedethics.biomedcentral.com/articles/10.1186/1472-6939-14-16</ext-link>
+					</comment>. Acesso em: 24 mar. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>PARKER</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<source>The ethics of open access publishing</source>
+					<publisher-name>BMC Medical Ethics</publisher-name>
+					<publisher-loc>United Kingdom</publisher-loc>
+					<volume>14</volume>
+					<issue>16</issue>
+					<fpage>1</fpage>
+					<lpage>4</lpage>
+					<year>2013</year>
+					<pub-id pub-id-type="doi">10.1186/1472-6939-14-16</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://bmcmedethics.biomedcentral.com/articles/10.1186/1472-6939-14-16">https://bmcmedethics.biomedcentral.com/articles/10.1186/1472-6939-14-16</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-24">24 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>RESNIK, D. B. The ethics of science: an introduction. Londres e Nova York, 1998. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://archive.org/details/ethicsofsciencei0000resn/mode/2up">https://archive.org/details/ethicsofsciencei0000resn/mode/2up</ext-link>
+					</comment>. Acesso em: 1 mar. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>RESNIK</surname>
+							<given-names>D. B.</given-names>
+						</name>
+					</person-group>
+					<source>The ethics of science: an introduction</source>
+					<publisher-loc>Londres e Nova York</publisher-loc>
+					<year>1998</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://archive.org/details/ethicsofsciencei0000resn/mode/2up">https://archive.org/details/ethicsofsciencei0000resn/mode/2up</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-01">1 mar. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>ROCHA, E. S. S.; ANDRADE, D. R. S. Integridade científica nos periódicos de Ciência da Informação: análise de conteúdo das diretrizes para submissão de artigos. <italic>Transinformação</italic>, Campinas, SP, n. <italic>35</italic>, p. e220017, 2023. DOI: https://doi.org/10.1590/2318-0889202335e220017. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/tinf/a/kjMHmVzDLTY6JgLzcsr9dmS/?lang=pt">https://www.scielo.br/j/tinf/a/kjMHmVzDLTY6JgLzcsr9dmS/?lang=pt</ext-link>
+					</comment>. Acesso em: 29 out. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>ROCHA</surname>
+							<given-names>E. S. S.</given-names>
+						</name>
+						<name>
+							<surname>ANDRADE</surname>
+							<given-names>D. R. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Integridade científica nos periódicos de Ciência da Informação: análise de conteúdo das diretrizes para submissão de artigos</article-title>
+					<source>Transinformação</source>
+					<publisher-loc>Campinas, SP</publisher-loc>
+					<issue>35</issue>
+					<size units="pages">e220017</size>
+					<year>2023</year>
+					<pub-id pub-id-type="doi">10.1590/2318-0889202335e220017</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/tinf/a/kjMHmVzDLTY6JgLzcsr9dmS/?lang=pt">https://www.scielo.br/j/tinf/a/kjMHmVzDLTY6JgLzcsr9dmS/?lang=pt</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-29">29 out. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>ROCHA, E. S. S.; et al.Ética e integridade na produção do conhecimento científico. Alexandría: Revista de Ciencias de la Información, v. 6, n. 9, p. 58-76, 2012. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://brapci.inf.br/v/62079">https://brapci.inf.br/v/62079</ext-link>
+					</comment>. Acesso em: 29 out. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>ROCHA</surname>
+							<given-names>E. S. S.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Ética e integridade na produção do conhecimento científico</article-title>
+					<source>Alexandría: Revista de Ciencias de la Información</source>
+					<volume>6</volume>
+					<issue>9</issue>
+					<fpage>58</fpage>
+					<lpage>76</lpage>
+					<year>2012</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://brapci.inf.br/v/62079">https://brapci.inf.br/v/62079</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-29">29 out. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>SHINKAI, R. S. Integrity in research and publication. Revista Odonto Ciência, Rio Grande do Sul, v. 25, n. 4, p. 332-332, dez. 2010. DOI: https://doi.org/10.1590/S1980-65232010000400001. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/roc/a/mFVjWJXdXsP3s6mMppZmYGc/?lang=en">https://www.scielo.br/j/roc/a/mFVjWJXdXsP3s6mMppZmYGc/?lang=en</ext-link>
+					</comment>. Acesso em: 12 set. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>SHINKAI</surname>
+							<given-names>R. S.</given-names>
+						</name>
+					</person-group>
+					<article-title>Integrity in research and publication</article-title>
+					<source>Revista Odonto Ciência</source>
+					<publisher-loc>Rio Grande do Sul</publisher-loc>
+					<volume>25</volume>
+					<issue>4</issue>
+					<fpage>332</fpage>
+					<lpage>332</lpage>
+					<year>2010</year>
+					<pub-id pub-id-type="doi">10.1590/S1980-65232010000400001</pub-id>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/roc/a/mFVjWJXdXsP3s6mMppZmYGc/?lang=en">https://www.scielo.br/j/roc/a/mFVjWJXdXsP3s6mMppZmYGc/?lang=en</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-09-12">12 set. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>UNIVERSIDADE DE SÃO PAULO. Guia de boas práticas científicas. 2. ed. São Paulo: USP: Pró-Reitoria de Pesquisa e Inovação, 2023. 31 p. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ime.usp.br/media/pesquisa/guia_boas_praticas-2ed.pdf">https://www.ime.usp.br/media/pesquisa/guia_boas_praticas-2ed.pdf</ext-link>
+					</comment>. Acesso em: 22. jul. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>UNIVERSIDADE DE SÃO PAULO</collab>
+					</person-group>
+					<source>Guia de boas práticas científicas</source>
+					<edition>2. ed. </edition>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>USP: Pró-Reitoria de Pesquisa e Inovação</publisher-name>
+					<year>2023</year>
+					<fpage>31</fpage>
+					<lpage>31</lpage>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ime.usp.br/media/pesquisa/guia_boas_praticas-2ed.pdf">https://www.ime.usp.br/media/pesquisa/guia_boas_praticas-2ed.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-07-22">22. jul. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>VENTURA, M.; OLIVEIRA, S. C. Integridade e ética na pesquisa e na publicação científica. Cadernos de Saúde Pública, Rio de Janeiro, v. 38, n. 1, p. e00283521, 2022. DOI: https://doi.org/10.1590/0102-311X00283521. Disponível: <comment>Disponível: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/csp/a/MYwqWtW9WLN36pd5LffBG9x/?lang=pt">https://www.scielo.br/j/csp/a/MYwqWtW9WLN36pd5LffBG9x/?lang=pt</ext-link>
+					</comment>. Acesso em: 12 set. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>VENTURA</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>OLIVEIRA</surname>
+							<given-names>S. C.</given-names>
+						</name>
+					</person-group>
+					<article-title>Integridade e ética na pesquisa e na publicação científica</article-title>
+					<source>Cadernos de Saúde Pública</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<volume>38</volume>
+					<issue>1</issue>
+					<size units="pages">e00283521</size>
+					<year>2022</year>
+					<pub-id pub-id-type="doi">10.1590/0102-311X00283521</pub-id>
+					<comment>Disponível: <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/j/csp/a/MYwqWtW9WLN36pd5LffBG9x/?lang=pt">https://www.scielo.br/j/csp/a/MYwqWtW9WLN36pd5LffBG9x/?lang=pt</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-09-12">12 set. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>YAMASHITA, M. T. Obsessão por quantidade incentiva fraude científica. Jornal da Unesp, São Paulo, 1 fev. 2024. Disponível em: <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://jornal.unesp.br/2024/02/01/obsessao-por-quantidade-incentiva-fraude-cientifica/#:~:text=Com%20mais%20de%2010%20mil,n%C3%BAmero%20de%20retrata%C3%A7%C3%B5es%20da%20hist%C3%B3ria">https://jornal.unesp.br/2024/02/01/obsessao-por-quantidade-incentiva-fraude-cientifica/#:~:text=Com%20mais%20de%2010%20mil,n%C3%BAmero%20de%20retrata%C3%A7%C3%B5es%20da%20hist%C3%B3ria</ext-link>
+					</comment>. Acesso em: 24 mai. 2024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>YAMASHITA</surname>
+							<given-names>M. T.</given-names>
+						</name>
+					</person-group>
+					<article-title>Obsessão por quantidade incentiva fraude científica</article-title>
+					<source>Jornal da Unesp</source>
+					<publisher-loc>São Paulo</publisher-loc>
+					<year>2024</year>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://jornal.unesp.br/2024/02/01/obsessao-por-quantidade-incentiva-fraude-cientifica/#:~:text=Com%20mais%20de%2010%20mil,n%C3%BAmero%20de%20retrata%C3%A7%C3%B5es%20da%20hist%C3%B3ria">https://jornal.unesp.br/2024/02/01/obsessao-por-quantidade-incentiva-fraude-cientifica/#:~:text=Com%20mais%20de%2010%20mil,n%C3%BAmero%20de%20retrata%C3%A7%C3%B5es%20da%20hist%C3%B3ria</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-24">24 mai. 2024</date-in-citation>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>Trata-se da Revista Panamericana de Salud Pública - https://www.scielosp.org/journal/rpsp/about/#instructions, cuja sede está localizada em Washington, D.C., Estados Unidos da América.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

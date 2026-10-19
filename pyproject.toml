@@ -1,0 +1,22 @@
+[project]
+name = "scielo-docx-to-sps"
+version = "0.1.0"
+description = "Pipeline local para converter artigos cientificos em DOCX em XML SciELO Publishing Schema 1.8 (JATS 1.1) validado."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "lxml>=5.0",
+]
+
+[project.optional-dependencies]
+render = [
+  "PyMuPDF>=1.24",
+]
+dev = [
+  "pytest>=8.0",
+  "PyMuPDF>=1.24",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

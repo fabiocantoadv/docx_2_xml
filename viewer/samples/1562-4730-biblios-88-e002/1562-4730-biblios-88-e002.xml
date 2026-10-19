@@ -1,0 +1,1782 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">biblios</journal-id>
+      <journal-title-group>
+        <journal-title>Biblios</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Biblios</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1562-4730</issn>
+      <publisher>
+        <publisher-name>University Library System, University of Pittsburgh</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.5195/biblios.2025.1217</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Integridade na pesquisa científica: Tópicos fundamentais e emergentes</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Research integrity: Fundamental and emerging topics</trans-title>
+        </trans-title-group>
+        <trans-title-group xml:lang="es">
+          <trans-title>Integridad en la Investigación científica: Temas fundamentales y emergentes</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-2043-3853</contrib-id>
+          <name>
+            <surname>Santos d’Amorim</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <email>karen.isantos@ufpe.br</email>
+          <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-9208-3266</contrib-id>
+          <name>
+            <surname>Macedo dos Santos</surname>
+            <given-names>Raimundo Nonato</given-names>
+          </name>
+          <email>raimundo.macedo@ufpe.br</email>
+          <xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <institution content-type="original">Universidade Federal de Pernambuco, Recife, Brasil</institution>
+        <institution content-type="orgname">Universidade Federal de Pernambuco</institution>
+        <addr-line>
+          <city>Recife</city>
+        </addr-line>
+        <country country="BR">Brasil</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="con">
+          <p><bold>Concepção e elaboração do manuscrito:</bold> K. Santos-d’Amorim; R. N. Macedo dos Santos</p>
+          <p><bold>Coleta de dados:</bold> K. Santos-d’Amorim</p>
+          <p><bold>Análise de dados:</bold> K. Santos-d’Amorim; R. N. Macedo dos Santos</p>
+          <p><bold>Discussão dos resultados:</bold> K. Santos-d’Amorim; R. N. Macedo dos Santos</p>
+          <p><bold>Revisão e aprovação:</bold> K. Santos-d’Amorim; R. N. Macedo dos Santos</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>K. Santos-d’Amorim integra atualmente a equipe editorial do periódico Biblios; entretanto, no momento da submissão, não era vinculada à referida equipe. Os autores declaram não possuir quaisquer conflitos de interesse comerciais, financeiros ou de outra natureza que possam influenciar os resultados ou interpretações apresentadas neste artigo.</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p><bold>Editores:</bold> Lúcia da Silveira, Fabiano Couto Corrêa da Silva.</p>
+        </fn>
+      </author-notes>
+      <pub-date publication-format="electronic" date-type="pub">
+        <day>21</day>
+        <month>03</month>
+        <year>2025</year>
+      </pub-date>
+      <pub-date publication-format="electronic" date-type="collection">
+        <year>2025</year>
+      </pub-date>
+      <issue>88</issue>
+      <elocation-id>e002</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>07</month>
+          <year>2024</year>
+        </date>
+        <date date-type="accepted">
+          <day>08</day>
+          <month>03</month>
+          <year>2025</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="pt">
+          <license-p>Os autores cedem à Biblios os direitos exclusivos de primeira publicação, com o trabalho simultaneamente licenciado sob a Licença <italic>Creative Commons Attribution (CC BY) 4.0 Internationa</italic>l. Esta licença permite que terceiros remixem, adaptem e criem a partir do trabalho publicado, atribuindo o devido crédito de autoria e publicação inicial neste periódico. Os autores têm autorização para assumir contratos adicionais separadamente, para distribuição não exclusiva da versão do trabalho publicada neste periódico (ex.: publicar em repositório institucional, em site pessoal, publicar uma tradução, ou como capítulo de livro), com reconhecimento de autoria e publicação inicial neste periódico.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <title>Resumo</title>
+        <sec>
+          <title>Objetivo</title>
+          <p>Esta revisão explora tópicos de interesse no domínio da integridade em pesquisa, destacando a importância de práticas responsáveis e éticas, além de relatar a Cientometria Forense, disciplina que emerge dos Estudos Métricos da Informação, como uma nova abordagem estratégica para analisar e mitigar práticas fraudulentas na ciência.</p>
+        </sec>
+        <sec>
+          <title>Método</title>
+          <p>A pesquisa é de natureza qualitativa exploratória, baseada em uma revisão da literatura especializada sobre integridade e ética em pesquisa. Utiliza o método de revisão narrativa para compilar e analisar estudos relevantes que abordam normas, práticas e desafios no campo.</p>
+        </sec>
+        <sec>
+          <title>Resultados</title>
+          <p>Destaca que embora existam códigos de conduta estabelecidos e o aumento das discussões no tema, a implementação plena e a internalização dessas diretrizes ainda são desafiadoras. Instituições, periódicos científicos e eventos internacionais desempenham papéis cruciais na promoção de práticas responsáveis.</p>
+        </sec>
+        <sec>
+          <title>Conclusões</title>
+          <p>A promoção da integridade na pesquisa é uma responsabilidade compartilhada que requer esforços coordenados e ações integradas. Espera-se que instituições criem ambientes que incentivem práticas responsáveis, e que periódicos científicos consolidados cada vez mais busquem aprimorar seus processos de revisão por pares.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="en">
+        <title>Abstract</title>
+        <sec>
+          <title>Objective</title>
+          <p>This review explores topics of interest in the research integrity domain, highlighting the importance of responsible and ethical practices, and reports on Forensic Scientometrics, a discipline emerging from Information Metrics Studies, as a new strategic approach to analyze and mitigate fraudulent practices in science.</p>
+        </sec>
+        <sec>
+          <title>Method</title>
+          <p>The research is exploratory qualitative and based on a review of specialized research integrity and ethics literature. It employs narrative review to compile and analyze relevant studies addressing the field's norms, practices, and challenges.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>It highlights that although established codes of conduct and increasing discussions on the subject exist, these guidelines' full implementation and internalization remain challenging. Institutions, scientific journals, and international events play crucial roles in promoting responsible practices.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>Promoting research integrity is a shared responsibility that requires coordinated efforts and integrated actions. Institutions should create environments encouraging responsible practices while established scientific journals increasingly seek to improve their peer review processes.</p>
+        </sec>
+      </trans-abstract>
+      <trans-abstract xml:lang="es">
+        <title>Resumen</title>
+        <sec>
+          <title>Objetivo</title>
+          <p>Esta revisión explora temas de interés en el domínio de la integridad en la investigación, destacando la importancia de prácticas responsables y éticas, y reporta sobre la Cientometría Forense, disciplina que emerge de los estudios Métricos de la Información, como un nuevo enfoque estratégico para analizar y mitigar prácticas fraudulentas en la ciencia.</p>
+        </sec>
+        <sec>
+          <title>Método</title>
+          <p>La investigación es de naturaleza cualitativa exploratoria y se basa en una revisión de la literatura especializada sobre integridad y ética en la investigación. Emplea el método de revisión narrativa para compilar y analizar estudios relevantes que abordan las normas, prácticas y desafíos del campo.</p>
+        </sec>
+        <sec>
+          <title>Resultados</title>
+          <p>Destaca que aunque existen códigos de conducta establecidos y discusiones crecientes sobre el tema, la plena implementación e internalización de estas directrices siguen siendo desafiantes. Las instituciones, revistas científicas y eventos internacionales desempeñan roles cruciales en la promoción de prácticas responsables.</p>
+        </sec>
+        <sec>
+          <title>Conclusiones</title>
+          <p>Promover la integridad en la investigación es una responsabilidad compartida que requiere esfuerzos coordinados y acciones integradas. Las instituciones deben crear entornos que fomenten prácticas responsables, mientras que las revistas científicas establecidas buscan cada vez más mejorar sus procesos de revisión por pares.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <title>Palavras-chave:</title>
+        <kwd>Integridade científica, práticas de pesquisa responsáveis</kwd>
+        <kwd>integridade acadêmica</kwd>
+        <kwd>ética científica</kwd>
+        <kwd>Cientometria Forense</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="en">
+        <title>Keywords:</title>
+        <kwd>Scientific Integrity</kwd>
+        <kwd>responsible research practices</kwd>
+        <kwd>academic integrity</kwd>
+        <kwd>scientific ethics</kwd>
+        <kwd>Forensic Scientometrics</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <title>Palabras clave:</title>
+        <kwd>Integridad Científica</kwd>
+        <kwd>prácticas de investigación responsables</kwd>
+        <kwd>integridad académica</kwd>
+        <kwd>ética científica</kwd>
+        <kwd>Cientometría Forense</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES)</funding-source>
+          <award-id>001</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e Tecnológico – Brasil (CNPq)</funding-source>
+        </award-group>
+        <funding-statement>O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Código de Financiamento 001; E do Conselho Nacional de Desenvolvimento Científico e Tecnológico – Brasil (CNPq), Bolsa de Produtividade e Pesquisa – PQ 1C.</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="62"/>
+        <page-count count="19"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introdução</title>
+      <p>Ao contrário de outras profissões, cientistas não dispõem de uma deontologia coletiva que os auxilie a enfrentar os desafios em todas as etapas de uma pesquisa científica — desde a escolha do problema, do desenho metodológico, das práticas científicas ao compartilhamento de resultados por meio de publicações (<xref ref-type="bibr" rid="B17">Edsall, 1975</xref>). Essa lacuna normativa se deve, em parte, às variações de práticas e procedimentos que ocorrem em função das especificidades das diferentes áreas do conhecimento, bem como da presunção de que a conduta honesta é uma característica fundamental e inerente a todos, incluindo pesquisadores (Fostering..., 2017; Resnik; Elliott, 2023).</p>
+      <p>Do ponto de vista pessoal, ao ter que lidar com algumas situações adversas, o bom senso, a moral e a ética —facetas apreendidas ao longo da vida — podem auxiliar cognitivamente pesquisadores em muitas das tomadas de decisões no âmbito das pesquisas em que desenvolvem. No entanto, na Ciência, esses atributos não são suficientes, principalmente diante da complexidade das práticas acadêmicas.</p>
+      <p>Vieses na conceituação da ideia de pesquisa, no levantamento de dados, na seleção amostral, na análise e interpretação dos dados, incompetência, negligência ou ignorância em temas subjacentes, como insuficiência prática em técnicas de pesquisa em bases de dados ou mal gerenciamento de dados de pesquisa, são alguns dos exemplos de falhas que podem ser potencialmente mitigadas a partir do entendimento de regras basilares da Ciência, de melhores métodos, técnicas e práticas de pesquisa. Diante disso, entende-se que a utilização de indicadores de Práticas de Pesquisas Responsáveis (PPR) pode reduzir vieses inerentes a qualquer fase de um empreendimento científico, sendo consideradas competências adquiridas (<xref ref-type="bibr" rid="B43">Resnik &amp; Elliott, 2019</xref>; <xref ref-type="bibr" rid="B54">Stewart Jr., 2011</xref>). No entanto, a literatura especializada no tema sugere que a integridade em pesquisa tem sido uma aspiração ainda longe de se tornar uma norma (<xref ref-type="bibr" rid="B4">Anderson <italic>et al</italic>., 2013</xref>; Schmitz <italic>et al.,</italic> 2011; Steneck, 2006). Embora avanços notórios neste domínio possam ser notados, como o estabelecimento de congressos, periódicos científicos especializados, códigos de boas práticas, e escritórios de integridade em pesquisa, em termos educacionais, o tema parece ainda ser negligenciado, carecendo de devida atenção. No contexto da pós-graduação, por exemplo, Santana (2010) analisou 126 programas de pós-graduação (PPGs) brasileiros na área da saúde e constatou que, de modo geral, a maioria desses programas não demonstrou preocupação com o tema da integridade científica durante o período estudado.</p>
+      <p>Temas como integridade em pesquisa, práticas de pesquisa questionáveis ou más condutas parecem atrair a atenção de estudantes e pesquisadores quando compartilhados em mídias sociais. Matérias sobre plágio também parecem ganhar visibilidade online, mas a profundidade e a seriedade com que são abordadas em ambientes acadêmicos formais ainda parecem ser insuficientes, carecendo da devida atenção. Como argumentam <xref ref-type="bibr" rid="B4">Anderson <italic>et al.</italic> (2013)</xref>, expectativas de boas práticas em pesquisa necessitam ser explicitamente ensinadas e coordenadas em conjunto com instituições pertinentes, em vez de esperar que pesquisadores saibam o que é ou não aceitável. Ademais, todas as entidades envolvidas nesse ecossistema exercem diferentes parcelas de responsabilidade. O que também inclui a qualidade das orientações dos estudantes (Bird, 2001; Kornfeld, 2012). Ainda, o desconhecimento prático e epistemológico do tema, em associação às pressões enfrentadas pelos indivíduos envolvidos no ecossistema da pesquisa, frequentemente simplificadas pela expressão "publicar ou perecer", tem levado a uma série de comportamentos e práticas que comprometem a integridade científica.</p>
+      <p>Face ao exposto, esta revisão narrativa adota uma abordagem qualitativa exploratória de natureza teórica, fundamentando-se em uma revisão da literatura especializada no campo de estudo. Para tanto, utiliza o método de revisão narrativa (<xref ref-type="bibr" rid="B44">Rother, 2007</xref>), que consiste em uma curadoria criteriosa dos principais temas relacionados ao tópico em questão, organizando-os de forma a proporcionar uma compreensão abrangente e pertinente do assunto. O conteúdo discutido neste artigo compõe parte da fundamentação teórica desenvolvida na tese de doutorado (<xref ref-type="bibr" rid="B46">Santos-d’Amorim, 2024</xref>), defendida no Programa de Pós-graduação em Ciência da Informação da Universidade Federal de Pernambuco. A precitada revisão de literatura foi feita no período entre 2020 e 2024 nas bases Web of Science, Scopus, Scielo, Pubmed, Brapci, além do buscador Google Acadêmico.</p>
+      <p>Visa explorar questões-chave relacionadas ao campo de estudo da Integridade em Pesquisa. Para tanto, o texto está organizado de forma a proporcionar uma compreensão progressiva e integrada desses temas. Inicialmente, discute-se sobre a terminologia do domínio, com foco nos limites e nas distinções entre os termos ética e integridade, que frequentemente são usados de forma intercambiável, mas carregam significados e implicações distintas e em seguida, examinam-se as noções subjacentes ao conceito de "integridade em pesquisa". Observando o domínio em seu sentido meso, esta revisão discute sobre os dispositivos de fomento às práticas de pesquisa responsáveis, evidenciando as características e ações dos diversos atores envolvidos, como instituições de pesquisa, agências de fomento e periódicos científicos. Essa discussão permite compreender como as partes interessadas desempenham papel-chave na promoção da integridade em pesquisa. Por fim, ao abordar os assuntos emergentes no âmbito do domínio investigado, descreve-se a proposta da Cientometria Forense (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>), e sugere-se o uso estratégico dos Estudos Métricos da Informação como ferramenta para investigar e, consequentemente, fortalecer a integridade da pesquisa, posicionando estes temas emergentes na fronteira do conhecimento da Ciência da Informação.</p>
+    </sec>
+    <sec>
+      <title>O limiar da sobreposição dos termos: ética e integridade em pesquisa</title>
+      <p>Sendo terminologia um componente crucial de qualquer campo de estudo, entende-se ser fundamental distinguir termos que são frequentemente utilizados de forma intercambiável nesse domínio de estudo. Portanto, compreender o contexto que orienta essa diferenciação constitui o ponto de partida desta discussão.</p>
+      <p>Muitas são as histórias que destacam lapsos éticos em todas as atividades do fazer científico, abrangendo desde casos relativamente inofensivos aos mais graves, como por exemplo, (i) o do ganhador do Prêmio Nobel de Física em 1923, Robert Millikan, que omitiu resultados considerados como ruins ou apenas razoáveis de seus experimentos com uma gota de óleo para medir a carga do elétron. Além de não reconhecer adequadamente a contribuição de seu aluno, Harvey Fletcher, na pesquisa (<xref ref-type="bibr" rid="B45">Santos, 1995</xref>); (ii) a falta de consentimento informado em estudos financiados pelos EUA sobre sífilis entre 1932-1972 e sobre os efeitos da radiação em seres humanos, incluindo experimentos em mulheres grávidas, militares e indivíduos diagnosticados com câncer entre 1944 e 1980; ou (iii) a história dos experimentos imorais em prisioneiros chineses realizados por japoneses entre 1932 e 1945, que incluía experiências com armas químicas, biológicas, e experimentação irresponsável (<xref ref-type="bibr" rid="B41">Resnik, 1998</xref>).</p>
+      <p>Apesar dos acontecimentos citados, as primeiras preocupações explícitas e que levaram à criação de um código internacional sobre o tratamento ético em pesquisas científicas advieram dos comportamentos reprováveis e antiéticos, em que médicos nazistas foram condenados por cometerem atrocidades contra aprisionados em campos de concentração (<xref ref-type="bibr" rid="B24">Guilhem, 2008</xref>). É nesse contexto, pós-segunda guerra mundial, que o Código de Nuremberg, formulado em 1947 na cidade de nome análogo, na Alemanha, é citado como pedra fundamental no tema. O documento influenciou políticas em pesquisas médicas, como o consentimento informado, e códigos ulteriores (<xref ref-type="bibr" rid="B49">Shuster, 1997</xref>), como a Declaração de Helsinki, desenvolvida em 1964 pela Associação Médica Mundial — primeiro regulamento que propôs a anuência de comitês de ética em pesquisa em toda e qualquer pesquisa científica envolvendo seres humanos, e do Relatório Belmont, de 1979 (<xref ref-type="bibr" rid="B5">Antenor, 2020</xref>; <xref ref-type="bibr" rid="B24">Guilhem, 2008</xref>).</p>
+      <p>Como consequência do crescimento e do amadurecimento das discussões no tema, as preocupações desmembram-se então em duas vertentes: de um lado, centram-se nas questões morais, relacionadas ao tratamento ético e de condutas aceitáveis em pesquisas que envolvam o manejo de animais e/ou seres humanos, como na pesquisa clínica ou nas Ciências Sociais, em pesquisas de campo; do outro, voltam-se às preocupações sobre o fazer científico pautado nos mais altos padrões dos princípios de integridade (<xref ref-type="bibr" rid="B50">Soehartono; Yu; Khor, 2022</xref>).</p>
+      <p>Na primeira vertente, a regulamentação e implementação de conselhos de revisão institucionais (Institutional Review Boards - IRBs) ou comitês de ética — grupos designados para revisar e avaliar a proteção dos direitos e do bem-estar dos sujeitos humanos —, foi um marco fundamental para avaliar o cumprimento de padrões éticos nas pesquisas científicas; sendo a submissão de propostas antes do início do projeto etapa indispensável em pesquisas com seres humanos e/ou financiadas por agências federais, como o Department of Health and Human Services (DHHS), nos EUA (Grady, 2015), ou na Europa, em pesquisas envolvendo seres humanos, uso de células-tronco ou embriões humanos. A ética em pesquisa concentra-se sobretudo na avaliação ética de assuntos e protocolos de pesquisa, utilizando uma estrutura baseada no principialismo, um conjunto de princípios éticos, norteado em quatro princípios: autonomia, beneficência, não-maleficência e justiça (<xref ref-type="bibr" rid="B29">Kolstoe; Pugh, 2023</xref>).</p>
+      <p>Em um estudo sistemático realizado no contexto da América Latina, <xref ref-type="bibr" rid="B2">Aguilera, Carracedo e Saenz (2022)</xref> avaliaram a adoção de indicadores estabelecidos pela Organização Pan-Americana da Saúde para abordar ética e integridade. Os resultados, à época, indicaram que países como Argentina, Brasil, Chile, Costa Rica, Cuba, Equador, El Salvador, México, Panamá, Paraguai, Peru e Uruguai possuem sistemas consolidados para a supervisão ética de pesquisas. Em contraste, Bolívia, Colômbia, República Dominicana, Guatemala, Haiti, Honduras e Venezuela estão ainda em fase de estruturação de seus mecanismos de supervisão, enquanto Jamaica, Nicarágua e Trinidad e Tobago ainda não implementaram sistemas formais para essa finalidade (<xref ref-type="bibr" rid="B2">Aguilera; Carracedo; Saenz, 2022</xref>). Podemos observar, no entanto, normativas, como a Resolución N° 0314 de 2018 do Ministerio de Ciencia, Tecnología e Innovación da Colômbia, que apontam para uma normatização sobre a ética da pesquisa científica, bioética e integridade científica naquele país.</p>
+      <p>No Brasil, por exemplo, o sistema de avaliação ética para pesquisas que envolvam seres humanos é eficientemente organizado por meio da Comissão Nacional de Ética em Pesquisa (CONEP), vinculada ao Conselho Nacional de Saúde (CNS), Ministério da Saúde. No âmbito da CONEP, os Comitês e Ética em Pesquisa (CEP) — que possuem função deliberativa, educativa e normativa — são responsáveis por analisar tanto do ponto de vista técnico, quanto do científico se um estudo submetido a avaliação cumpre adequadamente os princípios éticos, se adequam às legislações vigentes, e se seus métodos e embasamentos são metodologicamente aceitáveis (<xref ref-type="bibr" rid="B12">Conselho..., 2023</xref>). Nesta senda, também se destacam por galvanizar e atrair atenção para o tema, Comitês independentes, como o International Committee of Medical Journal Editors (ICMJE), criado em 1978, o Committee on Publication Ethics (COPE), estabelecido em 1997.</p>
+      <p>Na segunda vertente, a de Integridade em pesquisa, podem ser citados como importantes dispositivos normativos no tema, documentos que representaram marcos no âmbito das edições da World Conference on Research Integrity (WCRI), tais como o Singapore Statement on Research Integrity e os Hong Kong Principles. Ambos os documentos objetivam fornecer bases orientativas globais para a promoção de práticas de investigação responsáveis.</p>
+      <p>Compreender o contexto que fundamenta o amadurecimento desse campo de estudo permite entender que a própria complementaridade de ações no tema ensejou os termos ética e integridade a serem frequentemente abordados de forma indissociável, conforme pressupõe o termo emergente “Research Integrity and Research Ethics (RIRE)”. Embora os limites conceituais entre ética e integridade não sejam tão delineados, considerando as subjetividades e possibilidades classificatórias, pode-se inferir que enquanto a ética em pesquisa refere-se ao conjunto de condutas comportamentais aceitáveis no âmbito da investigação científica, incluindo tanto as questões morais atreladas e de procedimentos, como em casos de pesquisas com seres humanos, a integridade, está associada a ações práticas — humanas e institucionais — adotadas, de modo a mitigar riscos e problemas em todas as fases da pesquisa (<xref ref-type="bibr" rid="B50">Soehartono; Yu; Khor, 2022</xref>).</p>
+      <p>Ainda que os dois termos pareçam se sobrepor ou se complementar, o limiar dessa sobreposição pode ser finalmente interpretado pelo que segue: a ética na pesquisa refere-se a desempenhar pesquisa de forma responsável, especialmente ao envolver participantes, colegas, empregadores, financiadores e a sociedade. Destacam-se neste sentido o compromisso com valores fundamentais, como o respeito à princípios morais e à deontologia, além de agir adequadamente do ponto de vista das condutas interpessoais. Já a integridade, pressupõe a adesão a padrões elevados de boas práticas ao conduzir estudos, buscando, sobretudo, fortalecer a confiança nos resultados alcançados, nos investigadores que conduzem a pesquisa e na comunidade científica como um todo (<xref ref-type="bibr" rid="B10">Carling, 2019</xref>; <xref ref-type="bibr" rid="B37">Muthanna; Chaaban; Qadhi, 2024</xref>).</p>
+    </sec>
+    <sec>
+      <title>Facetas da integridade científica no ecossistema de pesquisa: responsabilidades compartilhadas</title>
+      <p>O termo “integridade em pesquisa” tem sido explorado de forma abrangente na literatura especializada. Como discutido na seção anterior, compreende um conjunto de princípios e práticas que visam garantir que os pesquisadores sejam rigorosamente éticos-metodologicamente responsáveis na criação de conhecimento (Poff, 2014). Por ser amplo, é também suscetível a diversas interpretações, o que pode gerar equívocos e levar à ocultação de significativos conflitos de valores, como destacam <xref ref-type="bibr" rid="B25">Helgesson e Bülow (2023)</xref>. Estudos dedicados a investigar o que os pesquisadores entendem por “integridade” no contexto da Ciência mostram que dentre a confusão de interpretações, o termo também tem sido frequentemente relatado como sendo o oposto de má conduta. Nessa lógica, considerando que erros não intencionais e vieses podem ser intrínsecos à complexidade da pesquisa científica, faz-se salutar ponderar também que a ausência de má conduta não implica em integridade (<xref ref-type="bibr" rid="B48">Shaw; Satalkar, 2018</xref>).</p>
+      <p>Quatro perspectivas (ou facetas) para o que se entende por “integridade” no contexto acadêmico-científico, em conformidade com pesquisas anteriores podem ser elencadas. Essas perspectivas pressupõem que a integridade requer responsabilidades compartilhadas entre as diversas partes interessadas envolvidas nesse ecossistema (<xref ref-type="bibr" rid="B25">Helgesson; Bülow, 2023</xref>): a primeira, diz respeito à integridade do pesquisador individual, e corresponde a valores e a traços de caráter compatíveis com a profissão de cientista. Considera-se a integridade pessoal como fundamental, uma vez que a ausência desta pode facilmente induzir indivíduos a praticarem comportamentos questionáveis ou fraudulentos (<xref ref-type="bibr" rid="B50">Soehartono; Yu; Khor, 2022</xref>). No entanto, embora a ênfase na integridade individual seja crucial, é importante questionar até que ponto a responsabilidade pela integridade científica pode ser atribuída exclusivamente ao pesquisador. Fatores contextuais, como pressões por produtividade, falta de recursos e ambientes institucionais competitivos, podem influenciar práticas científicas, muitas vezes levando a comportamentos questionáveis ou fraudulentos.</p>
+      <p>A segunda perspectiva refere-se à integridade da pesquisa, e congrega atributos relacionados ao processo da pesquisa desde suas fases iniciais, como escolha e interpretação correta de estudos anteriores sobre o tópico, passando pelo uso adequado de métodos e técnicas ao registro fidedigno, ou quaisquer atividades subjacentes à investigação científica (<xref ref-type="bibr" rid="B35">Meriste et al., 2016</xref>; <xref ref-type="bibr" rid="B48">Shaw; Satalkar, 2018</xref>). Por outro lado, apesar desta perspectiva abordar aspectos fundamentais para a credibilidade da pesquisa, como a escolha apropriada de métodos, procedimentos, materiais e relatos confiáveis, faz-se importante pensar nos desafios práticos enfrentados que se colocam, como a complexidade crescente associada às práticas de pesquisa científica.</p>
+      <p>A terceira, corresponde à integridade institucional, considerando instituições ligadas ao ecossistema da pesquisa científica como atores sociais influenciadores de comportamentos. Pode ser também compreendida pelo que se conhece por governança da pesquisa, que diz respeito aos métodos que as instituições utilizam para regular, administrar e supervisionar a pesquisa científica. Tais atividades incluem, mas não se limitam a formulação de políticas e processos de execução, e a checagem de conformidade ao cumprimento de normativas estabelecidas, no âmbito dos mais diversos comitês de avaliação. Sobre isso, faz-se salutar questionar se as normas e os processos de avaliação atuais são realmente capazes de garantir práticas éticas e transparentes. Quando políticas institucionais se tornam demasiado burocráticas, meramente instituídas de forma protocolar, podem aparentar uma cultura de integridade artificial.</p>
+      <p>Por último, a quarta perspectiva corresponde à integridade da Ciência, observando-a como um sistema social (<xref ref-type="bibr" rid="B36">Merton; 1962</xref>; <xref ref-type="bibr" rid="B60">Ziman, 1981</xref>). Abrange todos os aspectos acima mencionados e aqui é interpretada pelo termo macro “integridade científica”. Essa abordagem permite compreender a ciência como um sistema interconectado, em que a integridade não se restringe a indivíduos, processos ou instituições de forma isolada, mas resulta da interação dinâmica entre todos esses elementos.</p>
+    </sec>
+    <sec>
+      <title>Práticas de Pesquisa Responsáveis</title>
+      <p>Por Práticas de Pequisa Responsáveis, entende-se que são comportamentos esperados que incluem, mas não se limitam ao cumprimento de códigos de conduta, regulamentos, precisão e transparência de informações em relatórios de pesquisa.</p>
+      <p>Em termos gerais, pode-se afirmar que o conjunto de conhecimentos teóricos desenvolvidos no campo ao longo das últimas décadas trouxe contribuições significativas para o aprimoramento de boas práticas científicas. Algumas normas, no entanto, ainda têm sido vistas como uma aspiração pelos próprios cientistas (<xref ref-type="bibr" rid="B53">Steneck, 2007</xref>; <xref ref-type="bibr" rid="B4">Anderson et al., 2013</xref>).</p>
+      <p>E é com base nesse cenário que são propostas as primeiras linhas de ações para a promoção de práticas responsáveis. Steneck (2003) defende que a primeira destas ações é a mudança de mentalidade de aspiração ou anseio para a implementação efetiva de normas a serem seguidas. A segunda, é a capacitação técnica no ensino de boas práticas, e não apenas a expectativa de que discentes e docentes saibam os limites entre o eticamente aceitável e o não aceitável. A terceira, envolve articulações institucionais com vistas a criação de ambientes propícios à honestidade, englobando também avaliações contínuas sobre melhores indicadores de avaliação e de sistemas de comunicação transparentes. Por último, defende-se a inclusão de um sistema federal de investigação de más condutas e práticas questionáveis para que políticas e procedimentos sejam implementados, a fim de coibir comportamentos inadequados no futuro (<xref ref-type="bibr" rid="B53">Steneck, 2007</xref>). Destaque-se que tais conjuntos de ações podem ser observados na Declaração de Cingapura (Singapore Statement), de 2010, como, por exemplo, no item 13 da seção de responsabilidades: “as instituições de pesquisa devem criar e manter ambientes que incentivem a integridade por meio de educação, políticas claras e padrões razoáveis para o avanço, ao mesmo tempo em que promovem ambientes de trabalho que apoiem a integridade na pesquisa”.</p>
+      <p>Diante desse contexto macro pode-se destacar também que a promoção de práticas de pesquisa responsáveis é uma responsabilidade compartilhada (<xref ref-type="bibr" rid="B8">Bouter, 2018</xref>). Por exemplo, a edição mais recente (2023) do Código Europeu de Conduta para Integridade na Pesquisa destaca que cada parte envolvida neste ecossistema acadêmico é responsável pela adoção de práticas responsáveis nos limites de seus enquadramentos e cita ações compreendidas entre: (i) ambiente de pesquisa, (ii) treinamento, supervisão e mentoria; (iii) procedimentos de pesquisa (iv) proteções; (v) práticas e gerenciamento de dados; (vi) trabalho colaborativo; (vii) publicação, divulgação e autoria; e (viii) revisão e avaliação (<xref ref-type="bibr" rid="B3">All European Academies, 2023</xref>). A seção a seguir detalha estes itens.</p>
+    </sec>
+    <sec>
+      <title>Dispositivos de fomento às práticas de pesquisa responsáveis no ecossistema científico: ações coordenadas ou assimétricas?</title>
+      <p>Uma análise historiográfica do conhecimento científico existente sobre práticas de pesquisa responsáveis demonstra que num primeiro momento os estudos no tema centravam-se no indivíduo e suas condutas (<xref ref-type="bibr" rid="B56">Tijdink et al., 2021</xref>). Com o progresso das discussões, a expansão do escopo de investigação permitiu a identificação de fatores sociais e estruturais que podem exercer influência sobre as atitudes individuais (<xref ref-type="bibr" rid="B56">Tijdink et al., 2021</xref>). Entende-se, portanto, que ao levar em conta as diversas partes interessadas, é possível direcionar de forma mais eficiente os papéis e responsabilidades com as quais essas diferentes partes estão intrinsecamente associadas.</p>
+      <p>Ainda, é possível observar que a abordagem do tema se expande com base em diversos fatores, incluindo os avanços e as habilidades para identificar más condutas nas práticas de comunicação do conhecimento científico ao longo dos anos. Destacam-se a seguir alguns desdobramentos que contribuíram para o avanço do conhecimento no cenário atual.</p>
+      <list list-type="alpha-lower">
+        <list-item>
+          <p><bold>1978:</bold> O International Committee of Medical Journal Editors (ICMJE), antes conhecido como “Vancouver Group”, em referência à cidade de Vancouver, em British Columbia, Canadá, lança sua primeira recomendação, o documento “Uniform Requirements for Manuscripts Submitted to Biomedical Journals” (em tradução livre, “Requisitos Uniformes para Manuscritos Submetidos a Periódicos Biomédicos”), a fim de padronizar formato e preparação de manuscritos (<xref ref-type="bibr" rid="B26">International Committee of Medical Journal Editors, 1997</xref>). A versão mais recente do documento, agora intitulada “Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly work in Medical Journals”<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>, data de janeiro de 2024.</p>
+        </list-item>
+        <list-item>
+          <p><bold>Décadas de 1980-1990:</bold> Periódicos especializados no tema são lançados, como o Accountability in Research (1989) e Ethics &amp; Behavior (1991).</p>
+        </list-item>
+        <list-item>
+          <p><bold>1997:</bold> O Committee on Publication Ethics (COPE) é fundado por um grupo de editores médicos, no Reino Unido. A mais recente publicação do COPE (<xref ref-type="bibr" rid="B14">Cope, c2024b</xref>) consiste em seu plano estratégico para os anos de 2025 a 2028, com foco em quatro pilares: Integridade (Princípios, Liderança e Responsabilidade), Educação (Orientação, Conselho e Suporte), Colaboração (Engajar, Divulgar e Ouvir) e Diversidade/Equidade/Inclusividade/Acessibilidade (Participar, Apoiar e Entender).</p>
+        </list-item>
+        <list-item>
+          <p><bold>2005:</bold> A Primeira Conferência Mundial sobre integridade e Pesquisa (World Conference on Research Integrity – WCRI) acontece em Lisboa, Portugal (Steneck et al., 2017).</p>
+        </list-item>
+        <list-item>
+          <p><bold>2010:</bold> Declaração de Cingapura (Singapore Statement) é publicada, desenvolvida no âmbito da 2nd World Conference on Research Integrity, que aconteceu na cidade de nome análogo. É considerada como o primeiro esforço internacional para fomentar a elaboração de políticas, diretrizes e códigos de conduta harmonizados, com a meta de, a longo prazo, fortalecer a integridade da pesquisa em nível global (World Conferences on Research Integrity, c2024). Neste mesmo ano o Blog “Retraction Watch” é lançado, constituindo-se de blog dedicado a monitorar e relatar casos de fraudes e retratações de artigos científicos<xref ref-type="fn" rid="fn2"><sup>2</sup></xref></p>
+        </list-item>
+        <list-item>
+          <p><bold>2013:</bold> Declaração de Montreal (Montreal Statement) é publicada, no âmbito das discussões da 3rd World Conference on Research Integrity, que aconteceu no Canadá.</p>
+        </list-item>
+        <list-item>
+          <p><bold>2015:</bold> Blog “For Better Science” (em tradução literal: Para uma Ciência melhor) é lançado.</p>
+        </list-item>
+        <list-item>
+          <p>2017: Agenda de Amsterdã (Amsterdam Agenda) é publicada, no âmbito das discussões da 5th World Conference on Research Integrity, que aconteceu na capital dos Países Baixos.</p>
+        </list-item>
+        <list-item>
+          <p><bold>2018:</bold> Lançamento da base de dados do Retraction Watch.</p>
+        </list-item>
+        <list-item>
+          <p><bold>2019:</bold> Princípios de Hong Kong (Hong Kong Principles) são publicados, no âmbito das discussões da 6th World Conference on Research Integrity, que aconteceu em Hong Kong.</p>
+        </list-item>
+        <list-item>
+          <p><bold>2022:</bold> Declaração da Cidade do Cabo (Cape Town Statement) é publicada, no âmbito das discussões da 7th World Conference on Research Integrity, que aconteceu na capital da África do Sul.</p>
+        </list-item>
+        <list-item>
+          <p><bold>2024:</bold> Declaração de Atenas (Athens Statement) é publicada, no âmbito das discussões da 8th World Conference on Research Integrity, que aconteceu na capital da Grécia.</p>
+        </list-item>
+      </list>
+      <p>Com base nesse contexto, para esta discussão são destacados três agentes de promoção de boas práticas no ecossistema científico: as instituições, os periódicos científicos, e as conferências no tema, conforme segue.</p>
+      <sec>
+        <title>Instituições</title>
+        <p>Entende-se que o nível de integridade dos pesquisadores relaciona-se, de certa maneira, com as ações empreendidas nas esferas administrativas das instituições de ensino e pesquisa, e agências de fomento (<xref ref-type="bibr" rid="B34">Mejlgaard <italic>et al</italic>., 2020</xref>; Vasconcelos <italic>et al</italic>., 2015). Diante desse entendimento, a busca pela conscientização por parte das instituições em nível governamental e de fomento tem impulsionado a criação ou o aperfeiçoamento de regulações e organismos. No cenário global, o <italic>US Office for Research Integrity</italic> (ORI) é citado como uma das primeiras entidades reguladoras em esfera nacional nos EUA. Na Europa, cita-se o European Code of Conduct for Research Integrity, publicado em 2017, e atualizado em 2023, aplicável à comunidade de pesquisa europeia como instrumento de autorregulação comum às diferentes áreas do conhecimento, apesar das divergências internas entre os países europeus (<xref ref-type="bibr" rid="B16">Desmond; Dierickx, 2021</xref>).</p>
+        <p>É notório que as discussões no tema levaram a importantes avanços. Mas em muitos cenários, a criação de códigos e documentos normativos no tema se dá em níveis tão restritos, que muitos países sequer dispõem de dispositivos em escala nacional, e esse cenário é ainda mais indefinido no contexto das instituições de ensino e pesquisa. No Brasil, por exemplo, a Comissão de Integridade na Atividade Científica (CIAC), instituída em 2011 pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) limita-se a deliberar em casos de pesquisas financiadas pelo órgão.</p>
+        <p>Em termos regionais, a criação de códigos de boas práticas por importantes agências de fomento à pesquisa, como a Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), tem atuado tanto no sentido de conscientização de boas práticas quanto na instrução para orientação de procedimentos, como é o caso da aplicação de sanções (<xref ref-type="bibr" rid="B7">Armond; Kakuk, 2023</xref>; Santos-d’Amorim <italic>et al</italic>. 2021). Universidades também têm constituído comissões focadas na integridade em pesquisa, tal como a Universidade Federal do Rio de Janeiro (UFRJ), por exemplo, que foi pioneira na criação de órgão dedicado à ética e à integridade em pesquisa.</p>
+        <p>Em que pese tais exemplos, a criação ou a adoção de códigos de boas práticas já existentes, mas adaptados aos diferentes contextos, é premente por parte de muitas instituições, principalmente pelo fato de que o desconhecimento no tema se constitui como fator de risco.</p>
+        <p>No âmbito educacional, estudos apontam que cada vez mais professores reconhecem a importância de conscientizar alunos em sala de aula sobre práticas e condutas responsáveis em pesquisa, apesar de algumas diferenças culturais (ver <xref ref-type="bibr" rid="B22">Gottardello; Karabag, 2022</xref>). A fim de se estabelecer um modelo eficiente e coordenado de alfabetização de alunos no tema, espera-se que as instituições de ensino e pesquisa capacitem e treinem seu corpo docente, discente e técnico em pesquisa para o conhecimento técnico e uso de melhores práticas, levando em consideração principalmente as especificidades de cada área do conhecimento. No entanto, nesse contexto, a alfabetização em integridade em pesquisa tem se desenvolvido a passos lentos e muitas vezes desarticulado (<xref ref-type="bibr" rid="B11">Cerdà-Navarro <italic>et al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B31">Löfström <italic>et al</italic>., 2015</xref>). Efetivamente, todos os campos da Ciência necessitam da aplicação de boas práticas em pesquisa, embora o aprendizado sobre integridade e boas práticas, dentre a importância que o tema merece, ainda seja distante da realidade das ementas de cursos de graduação ou pós-graduação (<xref ref-type="bibr" rid="B1">Abdi <italic>et al</italic>., 2021</xref>; <xref ref-type="bibr" rid="B21">Gonzalez-Acuna; Munoz; Valenzuela, 2023</xref>).</p>
+        <p>Além do evidente benefício que o ensino sobre condutas responsáveis na pesquisa pode desempenhar na própria condução das pesquisas (<xref ref-type="bibr" rid="B1">Abdi <italic>et al</italic>., 2021</xref>), o interesse educacional refere-se ao imperativo ético de contribuir para o progresso da sociedade (Kalichman, 2016). É com base no contexto precitado que o estímulo ao ensino de condutas responsáveis na investigação científica tem estimulado o interesse institucional em capacitar estudantes, professores e pesquisadores, como na União Europeia, em iniciativas financiadas pelo Programa Horizonte 2020. Podem ser citados projetos como o H<italic>2020 INTEGRITY Project, PRINTEGER</italic>, <italic>EnTIRE</italic> e <italic>VIRT2UE</italic>, sendo estes últimos, responsáveis pela manutenção permanente da plataforma Embassy of Good Science (em português, a Embaixada da Boa Ciência), cujo objetivo é proporcionar, de forma colaborativa o desenvolvimento, treinamento, materiais e discussões em tópicos de interesse no tema (<xref ref-type="bibr" rid="B59">van den Hoven <italic>et al</italic>., 2023</xref>).</p>
+        <p>Assim como em qualquer profissão, competências são adquiridas. <xref ref-type="bibr" rid="B48">Shaw e Satalkar (2018)</xref>, por exemplo, assinalam que pesquisadores iniciantes podem ser mais propensos a violações que possam comprometer a integridade da pesquisa. Nesse sentido, o entendimento das regras da Ciência, dos métodos e técnicas de pesquisas da área do conhecimento atuante são bases essenciais para a produção de bons pesquisadores, e consequentemente, de boas pesquisas (<xref ref-type="bibr" rid="B54">Stewart Jr., 2011</xref>).</p>
+        <p>Ainda, cabe destacar que o acompanhamento responsável por parte dos orientadores/supervisores/tutores é também basilar na formação de pesquisadores e na prevenção de pesquisas de baixa qualidade, objetivando a criação de um ambiente que inspire confiança nos métodos e resultados obtidos (<xref ref-type="bibr" rid="B39">Pizzolato; Dierickx, 2023</xref>). Uma tutoria cuidadosa e crítica pode auxiliar na detecção de potenciais erros cometidos pelos orientandos, mitigando as chances do cometimento de erros triviais ou, de pelo menos, a correção destes antes de sua publicização (<xref ref-type="bibr" rid="B40">Reetz, 2021</xref>). Como sugere <xref ref-type="bibr" rid="B54">Stewart Jr. (2011)</xref>, embora os perfis de alunos sejam diferentes—em que alguns precisem de mais atenção do que outros—, uma orientação personalizada pode ser um método eficiente, em que uma boa orientação pode auxiliar jovens cientistas a se tornarem cientistas sêniores bem-sucedidos. Somado a isso, em países que a pesquisa científica é feita majoritariamente no âmbito dos Programas de Pós-graduação (PPGs) de universidades públicas, por discentes de mestrado, doutorado e pesquisadores em estágio pós doutoral, como no Brasil, a importância de conscientizar orientadores e supervisores sobre o seu papel pode evitar erros sistêmicos no âmbito de grupos de pesquisa e de PPGs. Destaque-se ainda que é esperado que orientadores sejam modelos em boas práticas, demonstrando condutas responsáveis também por meio de suas ações ou atividades habituais (<xref ref-type="bibr" rid="B6">Antes; Kuykendall; DuBois, 2019</xref>).</p>
+        <p>O uso de equipamentos e de softwares também pode ser citado em associação à competência crítica do pesquisador no que se refere à capacidade de detecção de possíveis falhas. Como destaca <xref ref-type="bibr" rid="B61">Ziman (1996</xref>, p. 104), a credibilidade do conhecimento científico “não depende do fato de este ter sido obtido pela operação mecânica de instrumentos complicados, mas de estrutura de relações sociais que unem os pesquisadores e regem beneficamente seus inimitáveis poderes individuais de percepção e cogitação”. Assim, espera-se também do profissional pesquisador que este seja capaz de detectar resultados inconsistentes ou “bons demais para ser verdade”, situação caracterizada pelo que se conhece por “ciência patológica”<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>. Potenciais ações podem ser subsidiadas por instituições e partes interessadas, tal como mostrado na Figura 01.</p>
+        <p>Pode-se, portanto, sintetizar que no nível macro, instituições vinculadas aos órgãos estruturadores de sistemas educacionais e de fomento à pesquisa desempenham importante papel nas avaliações institucionais e de concessões de financiamento a projetos e bolsas. Por isso, é salutar que estas entidades atuem de forma a promover um ambiente sem pressões e proativo. Isso inclui, mas não se limita ao estabelecimento de políticas claras de preservação do cumprimento de critérios que permitam aumentar a confiabilidade das pesquisas, como também, de sistemas transparentes na investigação de casos de más condutas (<xref ref-type="bibr" rid="B3">All European Academies, 2023</xref>). No nível meso, que engloba as instituições de ensino e pesquisa, como Universidades e Centros de Pesquisa, é esperado que estes organismos atuem de modo a promover um ambiente formativo eficiente, em que todos os envolvidos nos contextos acadêmico e de pesquisa adquiram competências técnicas para aplicação de boas práticas em suas atividades acadêmicas e de pesquisa (<xref ref-type="bibr" rid="B3">All European Academies, 2023</xref>). O estabelecimento de comissões transparentes e proativas, de códigos e normativas no tema, e a publicização massiva desses também são esperados nesse nível. Ademais, como item atrelado à emergente necessidade de manutenção segura de dados de pesquisa, é salutar que instituições garantam alternativas para preservação de dados, metadados, protocolos e outros materiais de pesquisa durante um intervalo de tempo adequado (<xref ref-type="bibr" rid="B3">All European Academies, 2023</xref>).</p>
+        <fig id="f1">
+          <label>Figura 1</label>
+          <caption>
+            <title><italic>Ações institucionais para promover boas práticas no ecossistema acadêmico-científico</italic></title>
+          </caption>
+          <alt-text>Tela de computador com fundo preto Descrição gerada automaticamente</alt-text>
+          <graphic xlink:href="1562-4730-biblios-88-e002-gf1.png"/>
+          <attrib>Nota. Fonte: <xref ref-type="bibr" rid="B46">Santos-d’Amorim (2024)</xref>, com base em <xref ref-type="bibr" rid="B34">Mejlgaard et al. (2020)</xref>. *Findable (encontrabilidade), Accessible (acessibilidade), Interoperable (interoperabilidade) e Reusable (reusabilidade).</attrib>
+        </fig>
+        <p>Espera-se que tanto nos níveis macro quanto meso, os organismos envolvidos não se limitem apenas à imposição de sanções a comportamentos inadequados, mas sim, para capacitar seus membros, promover um ambiente adequado, sem pressões, e “incentivos perversos” para progressão na carreira (<xref ref-type="bibr" rid="B9">Bouter, 2020</xref>), ou para obtenção de bolsas e auxílios para partes interessadas, procurando sobretudo auxiliar no desenvolvimento de virtudes, e não o oposto (<xref ref-type="bibr" rid="B25">Helgesson; Bülow, 2023</xref>; <xref ref-type="bibr" rid="B35">Meriste <italic>et al</italic>., 2016</xref>). Assim como também, no nível micro, pesquisadores, professores e estudantes também devem buscar conhecer sobre os melhores métodos, técnicas e sobre o estado da arte no tema em que pesquisam (<xref ref-type="bibr" rid="B3">All European Academies, 2023</xref>).</p>
+      </sec>
+      <sec>
+        <title>Periódicos científicos</title>
+        <p>É amplamente reconhecido que os periódicos científicos têm um papel crucial na disseminação do conhecimento científico. Por isso, é essencial que busquem manter os mais elevados padrões de confiabilidade editorial. Com base em experiências aprendidas, o Committee on Publication Ethics (COPE) propôs práticas editoriais centrais, partindo do princípio de que estes dispositivos devem possuir práticas robustas que salvaguardem a integridade científica. Estas práticas se desdobram em dez tópicos fundamentais que podem ser aplicadas em periódicos de qualquer área do conhecimento (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>):</p>
+        <list list-type="alpha-lower">
+          <list-item>
+            <p><bold>Alegações de má conduta.</bold> Periódicos devem divulgar os procedimentos para tratar de alegações de má conduta, independentemente de como chegam ao conhecimento do periódico ou editora, tanto antes quanto após a publicação. As políticas de procedimentos devem delinear os passos apropriados para tratar de alegações levantadas por denunciantes (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Autoria e contribuição.</bold> Periódicos devem dispor de políticas transparentes detalhando critérios de autoria e contribuição, incluindo papéis e contribuições, bem como os procedimentos para resolver disputas (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Reclamações e apelações.</bold> Periódicos devem ter procedimentos transparentes sobre como tratarão reclamações envolvendo o próprio periódico, sua equipe, conselho editorial ou editora (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Conflitos de interesse/Interesses concorrentes.</bold> Periódicos devem possuir definições e processos transparentes para gerenciar conflitos de interesse entre partes interessadas, como, autores, revisores, editores, periódicos e editoras, sejam estes identificados antes ou após a publicação (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Dados e reprodutibilidade</bold>. Espera-se que tenham políticas sobre compartilhamento de dados, de acordo com as áreas do conhecimento que estejam vinculados (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Supervisão ética.</bold> Abrange políticas sobre consentimento para publicação, pesquisa envolvendo grupos vulneráveis, ética em pesquisa animal, ética em pesquisa com humanos, e manuseio de dados em geral (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Propriedade intelectual.</bold> Definições claras de políticas de propriedade intelectual, como direitos autorais, licenças de publicação. Além de esclarecer critérios de pré-publicação que desqualificam submissões e definir explicitamente o que se configura como plágio e como publicações redundantes (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>);</p>
+          </list-item>
+          <list-item>
+            <p><bold>Gestão.</bold> O periódico deve descrever claramente a sua Infraestrutura (modelo de negócios, políticas, processos e softwares etc.), além de treinar de forma eficiente sua equipe (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>).</p>
+          </list-item>
+          <list-item>
+            <p><bold>Processos de revisão por pares</bold>. Processos de avaliação transparentes, e eficientes, e a adoção de um modelo para lidar com disputas de interesse (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>); e</p>
+          </list-item>
+          <list-item>
+            <p><bold>Discussões e correções pós-publicação.</bold> Procedimentos para correção, revisão ou retratação de artigos após a publicação; Além de facilitar o debate pós-publicação, como em cartas ao editor ou sites externos destinados para este fim (<xref ref-type="bibr" rid="B13">Cope, c2025</xref>).</p>
+          </list-item>
+        </list>
+        <p>Destaque-se também, que processos alternativos, como é o caso da revisão por pares <italic>pós-publicação</italic> (Knoepfler, 2015), têm se tornado cada vez mais populares. Iniciativas como a plataforma Pubpeer (<xref ref-type="bibr" rid="B38">Ortega, 2021</xref>) e a revisão por pares aberta, como modelo emergente alicerçado no movimento da Ciência aberta (<xref ref-type="bibr" rid="B58">Wolfram <italic>et al.,</italic> 2020</xref>), também podem ser citadas nesse contexto.</p>
+        <p>Em síntese, os periódicos científicos desempenham um papel fundamental na disseminação do conhecimento, sendo imprescindível que adotem práticas editoriais robustas para garantir a integridade científica. As diretrizes propostas pelo Committee on Publication Ethics (COPE) abrangem aspectos essenciais, como o tratamento de alegações de má conduta, a transparência em critérios de autoria, a gestão de conflitos de interesse, a reprodutibilidade de dados, a supervisão ética e a clareza em políticas de propriedade intelectual. Além disso, a eficiência nos processos de revisão por pares e a adoção de mecanismos para discussões e correções pós-publicação são fundamentais para manter a credibilidade e a confiança na produção científica. Paralelamente, iniciativas inovadoras, como a revisão por pares pós-publicação e plataformas como o Pubpeer, refletem a evolução das práticas científicas no contexto do movimento da Ciência Aberta, reforçando a importância da transparência e do engajamento contínuo da comunidade acadêmica. Assim, a adoção dessas práticas e a integração de modelos emergentes são passos cruciais para fortalecer a confiabilidade e o impacto dos periódicos científicos no avanço do conhecimento.</p>
+      </sec>
+      <sec>
+        <title>Conferências</title>
+        <p>Desde as primeiras reuniões de sociedades científicas, em que cientistas se reuniam para realizar experimentos ou discutir suas pesquisas − os chamados “colégios invisíveis” − (<xref ref-type="bibr" rid="B60">Ziman, 1981</xref>), congressos ou conferências científicas, cada vez mais especializados, são, em sua essência, espaços de socialização de conhecimentos.</p>
+        <p>No domínio aqui estudado, as Conferências Mundiais sobre Integridade em Pesquisa (World Conferences on Research Integrity - WCRI) são o principal fórum global de discussão no tema, embora também possam ser citados outros congressos-satélite locais, como, UKRIO Annual Conferences, Brazilian Meeting on Research Integrity, Science and Publication Ethics (BRISPE), ou edições anuais da European Conference on Ethics and Integrity in Academia. Steneck et al. (2017) relatam que a WCRI surgiu de uma proposta bilateral (EUA-Europa) para promover a integridade em pesquisa em eixos de ação, como pesquisa, discussão, harmonização de políticas e cooperação conjunta.</p>
+        <p>Reconhecidamente os WCRI têm contribuído para o avanço desse domínio de pesquisa e têm ajudado a fomentar aplicações práticas, como relatam <xref ref-type="bibr" rid="B15">Dejo-Vásquez, Lescano e Pérez-Carreño (2021)</xref>, ao citarem que a participação de cientistas peruanos influenciou algumas medidas naquele país.</p>
+        <p>Conforme ilustrado na Figura 02 adiante, a primeira WCRI aconteceu em Lisboa, Portugal, em 2007, seguida de Cingapura, em 2010, Montreal, Canadá, em 2013, Rio de Janeiro, Brasil, em 2015, Amsterdã, Holanda, em 2017, Hong Kong, China, em 2019, Cidade do Cabo, África do Sul, em 2022, 2024 em Atenas, Grécia. A 8ª edição da WCRI está programada para acontecer em Vancouver, no Canadá, em 2026. As edições WCRI também fomentaram a criação de códigos que atualmente servem de base para compromissos éticos aplicáveis a qualquer pesquisa, pesquisador e contexto:</p>
+        <list list-type="alpha-lower">
+          <list-item>
+            <p><bold>Declaração de Cingapura (Singapore Statement), de 2010.</bold> Baseada em quatro princípios—honestidade em todos os aspectos da pesquisa, responsabilidade na condução da pesquisa, cortesia profissional e justiça no trabalho com outras pessoas e boa administração da pesquisa em nome de terceiros—define 14 responsabilidades fundamentais para a integridade científica;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Declaração de Montreal (Montreal Statement), de 2013.</bold> Com foco na pesquisa colaborativa transfronteiriça, sejam essas fronteiras geográficas, disciplinares ou setoriais, estabelece 20 responsabilidades, estratificadas em “gerais colaborativas”, “na gestão da colaboração”, “nas relações colaborativas” e nos “resultados da pesquisa”;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Agenda de Amsterdã (Amsterdam Agenda), de 2017.</bold> Buscou promover discussão no tema e coordenar esforços para melhorar a integridade da pesquisa em escala global por meio de “Registro de Pesquisa sobre a conduta responsável da pesquisa” (RRRCR)<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Princípios de Hong Kong (</bold><bold><italic>Hong Kong Principles</italic></bold><bold>), de 2019.</bold> Por meio da formulação de cinco princípios—avaliar práticas de pesquisa responsáveis, relatório completo de valor, recompensar a prática de ciência aberta, reconhecer uma ampla gama de atividades de pesquisa, reconhecer outras tarefas essenciais, como revisão por pares e orientações—o documento deu ênfase a recompensas por comportamentos que ajudam a promover a integridade científica;</p>
+          </list-item>
+          <list-item>
+            <p><bold>Declaração da Cidade do Cabo (</bold><bold><italic>Cape Town Statement</italic></bold><bold>), de 2022.</bold> Fornece 20 recomendações direcionadas a todas as partes interessadas no ecossistema da ciência, estratificadas em cinco subitens—Diversidade e Inclusão como um caminho para práticas e atribuições justas, práticas justas desde a concepção até a implementação, respeito mútuo como um caminho para a confiança, responsabilidade compartilhada, reconhecimento do conhecimento de povos originários e justiça epistêmica; e</p>
+          </list-item>
+          <list-item>
+            <p><bold>Declaração de Atenas (</bold><bold><italic>Athens Statement</italic></bold><bold>), de 2024.</bold> Teve como objetivo central desenvolver linhas de ações com vistas a catalisar a tradução da pesquisa em políticas e inovações confiáveis. Expande, portanto, a atenção da integridade em pesquisa, de modo a abranger não somente as instituições de pesquisa, mas também a indústria e a formulação de políticas.</p>
+          </list-item>
+        </list>
+        <fig id="f2">
+          <label>Figura 2</label>
+          <caption>
+            <title><italic>Congressos WCRI sobre integridade em pesquisa e documentos norteadores derivados destes</italic></title>
+          </caption>
+          <alt-text>Interface gráfica do usuário, Texto, Aplicativo Descrição gerada automaticamente</alt-text>
+          <graphic xlink:href="1562-4730-biblios-88-e002-gf2.png"/>
+          <attrib><italic>Nota.</italic> Fonte: <xref ref-type="bibr" rid="B46">Santos-d’Amorim (2024)</xref>, a partir de World Conferences on Research Integrity (c2024).</attrib>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>A Cientometria Forense como uma proposta integradora de ações</title>
+      <p>Visando avaliar de forma mais articulada o impacto de comportamentos antiéticos na comunidade científica, na integridade do registro de pesquisa e na confiança do público na ciência, é proposta a ideia da Cientometria Forense (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>) como uma disciplina interdisciplinar dedicada a diversas abordagens e práticas para assegurar a integridade e a segurança na pesquisa científica. Essas abordagens incluem a investigação de padrões de confiança e desconfiança, o desenvolvimento de pedagogias especializadas, o aprimoramento de metodologias estatísticas e computacionais, e a avaliação do impacto de más condutas na ciência e na percepção pública. Devido à sua complexidade inerente, são sugeridos dez componentes como linhas de ação para esta disciplina, sempre com o objetivo de integrar estudos teóricos e práticos (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>). São eles:</p>
+      <list list-type="alpha-lower">
+        <list-item>
+          <p><bold>Investigações.</bold> Explorar como se manifestam a confiança e a desconfiança na comunicação científica por meio de análises aprofundadas, incluindo estudos detalhados de casos e pesquisas estruturadas. O objetivo é identificar sinais de possíveis desvios éticos, como anomalias ou irregularidades, e examinar as consequências dessas ações para a credibilidade da ciência, sua integridade e a relação de confiança entre a sociedade e o universo científico (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Pedagogia.</bold> Criação de iniciativas educacionais, como cursos e oficinas práticas, acompanhadas de materiais de apoio, para capacitar pesquisadores, estudantes e profissionais. Essas ações buscam promover uma compreensão mais profunda sobre a integridade na pesquisa, a segurança científica, a ética na comunicação acadêmica e o uso estratégico da Cientometria Forense em suas áreas de atuação (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Desenvolvimento de Metodologias.</bold> Projetar e aperfeiçoar métodos analíticos, combinando abordagens estatísticas e ferramentas computacionais, como algoritmos e softwares especializados. Essas soluções são aplicadas à análise de publicações científicas, conexões em redes de citações, padrões de autoria e diversos indicadores bibliométricos, com o propósito de detectar possíveis violações éticas, incluindo fraudes em dados, plágio e outras práticas inadequadas (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Pesquisa.</bold> Foco na evolução de métodos e abordagens específicas do campo, incluindo a proposição de diretrizes e políticas alinhadas às necessidades da área. As atividades de pesquisa abrangem desde a exploração de questões e teorias fundamentais até a realização de experimentos, análise detalhada de dados, desenvolvimento de novas perspectivas teóricas e a comunicação dos resultados em meios acadêmicos (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Avaliação de Impacto.</bold> Investigar como a má conduta científica, retratações e desinformação influenciam a comunidade de pesquisa e a sociedade. Isso envolve abordar vários aspectos, como entender alterações nos padrões de citação, avaliar a confiança da sociedade em esforços científicos e analisar a disseminação de desinformação científica (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Desenvolvimento de Teorias.</bold> Desenvolvimento de estruturas teóricas e modelos analíticos para compreender as origens, os fatores motivadores e os mecanismos que resultam em diferentes formas de má conduta científica, bem como para investigar os impactos dessas práticas no ecossistema da pesquisa e na comunidade acadêmica em geral (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Interdisciplinaridade. Fomentar</bold> parcerias entre áreas como Ética, Sociologia, Psicologia, Ciência da Informação, Administração, Direito, Inteligência Artificial e Ciência da Computação, buscando combinar diferentes perspectivas e especializações para enfrentar de maneira integrada os desafios complexos ligados ao tema (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Desenvolvimento de Políticas.</bold> Atuar no desenvolvimento de mecanismos e orientações que assegurem a ética na pesquisa, previnam desvios de conduta e tratem violações éticas na comunicação científica, em parceria com organizações e especialistas comprometidos com a integridade acadêmica (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Ética e Padrões.</bold> Estabelecer princípios éticos ou protocolos de conduta, baseando-se em orientações já amplamente conhecidas, como as do Committee on Publication Ethics (COPE) e do International Committee of Medical Journal Editors (ICMJE) (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>);</p>
+        </list-item>
+        <list-item>
+          <p><bold>Desenvolvimento profissional.</bold> Proporcionar oportunides como eventos, e criar canais para trocas de experiências, fomentando aprimoramento de competências (<xref ref-type="bibr" rid="B33">McIntosh; Vitale, 2024</xref>).</p>
+        </list-item>
+      </list>
+      <p>Desse modo, acredita-se que a criação de uma disciplina dedicada, com o objetivo principal de manter estoques de informação científica confiáveis, seja essencial e urgente, além de possibilitar o entendimento da influência de interesses não científicos na ciência, de acordo com os princípios críticos. Assim, ao trazer uma perspectiva interdisciplinar e um olhar crítico para os desafios contemporâneos, a disciplina proposta por <xref ref-type="bibr" rid="B33">McIntosh e Vitale, (2024)</xref> se posiciona como uma resposta estratégica para fortalecer a integridade científica frente às pressões externas que podem desviar seu propósito central da ciência.</p>
+      <p>Finalmente, pode-se identificar que, os estudos bibliométricos têm se consolidado como ferramentas essenciais para mapear e analisar o cenário da má conduta científica, oferecendo insights que podem contribuir para impulsionar o debate sobre integridade e boas práticas na pesquisa. Ao quantificar e identificar padrões de comportamento questionáveis, como plágio, fabricação de dados e autoria inadequada, essas análises não apenas expõem falhas no sistema científico, mas também fornecem bases concretas para a elaboração de políticas e diretrizes que visam corrigir e prevenir tais desvios (<xref ref-type="bibr" rid="B19">Fanelli, 2013</xref>; <xref ref-type="bibr" rid="B32">Marcus; Oransky, 2014</xref>; <xref ref-type="bibr" rid="B62">Zuckerman, 2020</xref>).</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusão</title>
+      <p>Este estudo apresentou uma revisão de temas de interesse no âmbito do domínio integridade em pesquisa, em que se destaca a importância de uma abordagem abrangente que engloba ética no fazer científico, integridade científica, práticas responsáveis e o papel das instituições e periódicos científicos. Os tópicos discutidos objetivaram demostrar que, embora existam normas e códigos de conduta estabelecidos, ainda há um longo caminho a percorrer para que essas diretrizes sejam plenamente implementadas e internalizadas por todos os envolvidos no ecossistema da pesquisa.</p>
+      <p>O avanço prático na integridade na pesquisa requer esforços coordenados entre instituições, pesquisadores, periódicos, eventos científicos e redes de colaboração. As instituições devem promover ambientes que incentivem práticas responsáveis, oferecer treinamentos contínuos e estabelecer políticas claras para fomentar boas práticas de pesquisa. Periódicos científicos desempenham um papel crucial na garantia da qualidade e confiabilidade das publicações, necessitando de processos rigorosos de revisão por pares e mecanismos de correção pós-publicação. Como também, conferências e encontros internacionais são fundamentais para fomentar a discussão e a disseminação de melhores práticas.</p>
+      <p>Em suma, a promoção da integridade na pesquisa é uma responsabilidade compartilhada que demanda comprometimento contínuo e ações integradas. O desenvolvimento da Cientometria Forense como uma disciplina torna-se um passo salutar para abordar a complexidade da falta de boas práticas em pesquisa, possibilitando a identificação de práticas fraudulentas e a mitigação dessas falhas por meio de lições aprendidas. Nesse contexto, é fundamental que todos os atores do ecossistema científico se comprometam com práticas que garantam a produção de conhecimento confiável e ético, contribuindo assim para o avanço sustentável da ciência e, consequentemente, da sociedade.</p>
+      <p>Este estudo, por se tratar de uma revisão narrativa, apresenta limitações inerentes ao método. Embora permita uma abordagem ampla e crítica do tema, difere de uma revisão sistemática, pois não segue um protocolo rígido de busca e seleção de estudos.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Agradecimentos</title>
+      <p>Os autores agradecem aos avaliadores pelos comentários na etapa de revisão.</p>
+    </ack>
+    <ref-list>
+      <title>Referências</title>
+      <ref id="B1">
+        <mixed-citation>ABDI, S.; FIEUWS, S.; NEMERY, B.; DIERICKX, K. Do we achieve anything by teaching research integrity to starting PhD students? <bold>Humanit Soc Sci Commun</bold>, London, v. 8, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1057/s41599-021-00908-5">https://doi.org/10.1057/s41599-021-00908-5</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ABDI</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>FIEUWS</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>NEMERY</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>DIERICKX</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Do we achieve anything by teaching research integrity to starting PhD students?</article-title>
+          <source>Humanit Soc Sci Commun</source>
+          <publisher-loc>London</publisher-loc>
+          <volume>8</volume>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1057/s41599-021-00908-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation>AGUILERA, B.; CARRACEDO, S.; SAENZ, C. Research ethics systems in Latin America and the Caribbean: a systemic assessment using indicators. <bold>Lancet Glob Health</bold>, England, v. 10, n. 8, p. e1204–e1208, 2022 <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S2214-109X(22)00128-0">https://doi.org/10.1016/S2214-109X(22)00128-0</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>AGUILERA</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>CARRACEDO</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>SAENZ</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Research ethics systems in Latin America and the Caribbean: a systemic assessment using indicators</article-title>
+          <source>Lancet Glob Health</source>
+          <publisher-loc>England</publisher-loc>
+          <volume>10</volume>
+          <issue>8</issue>
+          <elocation-id>e1204</elocation-id>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.1016/S2214-109X(22)00128-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation>ALL EUROPEAN ACADEMIES. <bold>The European Code of Conduct for Research Integrity</bold> – Revised Edition 2023. Berlin: ALLEA, 2023. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.26356/ECOC">https://doi.org/10.26356/ECOC</ext-link></mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>ALL EUROPEAN ACADEMIES</collab>
+          </person-group>
+          <source>The European Code of Conduct for Research Integrity</source>
+          <publisher-loc>Berlin</publisher-loc>
+          <publisher-name>ALLEA</publisher-name>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.26356/ECOC</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation>ANDERSON, M. S.; SHAW, M. A.; STENECK, N. H.; KONKLE, E.; KAMATA, T. Research Integrity and Misconduct in the Academic Profession. In: PAULSEN, M. (eds). <bold>Higher Education</bold>: Handbook of Theory and Research (vol. 28). Dordrecht: Springer, 2013. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/978-94-007-5836-0_5">https://doi.org/10.1007/978-94-007-5836-0_5</ext-link></mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ANDERSON</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>SHAW</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name>
+              <surname>STENECK</surname>
+              <given-names>N. H.</given-names>
+            </name>
+            <name>
+              <surname>KONKLE</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>KAMATA</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>PAULSEN</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Research Integrity and Misconduct in the Academic Profession</chapter-title>
+          <source>Higher Education: Handbook of Theory and Research</source>
+          <publisher-loc>Dordrecht</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+          <volume>28</volume>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1007/978-94-007-5836-0_5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation>ANTENOR, S. Comitês de Ética ajudam a regular pesquisas com seres humanos. <bold>IPEA</bold>, 2020. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/228-comites-de-etica-ajudam-a-regular-pesquisas-com-seres-humanos-no-brasil">https://www.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/228-comites-de-etica-ajudam-a-regular-pesquisas-com-seres-humanos-no-brasil</ext-link>. Acesso em: 06 set. 2022.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ANTENOR</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comitês de Ética ajudam a regular pesquisas com seres humanos</article-title>
+          <source>IPEA</source>
+          <year>2020</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/228-comites-de-etica-ajudam-a-regular-pesquisas-com-seres-humanos-no-brasil">https://www.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/228-comites-de-etica-ajudam-a-regular-pesquisas-com-seres-humanos-no-brasil</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-09-06">06 set. 2022</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation>ANTES A. L., KUYKENDALL, A.; DUBOIS J. M. The lab management practices of “Research Exemplars” that foster research rigor and regulatory compliance: A qualitative study of successful principal investigators. <bold>PLOS ONE</bold>, San Francisco, v. 14, n. 4, 2019. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pone.0214595">https://doi.org/10.1371/journal.pone.0214595</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ANTES</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>L., KUYKENDALL, A.; DUBOIS J. M. The lab management practices of “Research Exemplars” that foster research rigor and regulatory compliance: A qualitative study of successful principal investigators</article-title>
+          <source>PLOS ONE</source>
+          <publisher-loc>San Francisco</publisher-loc>
+          <volume>14</volume>
+          <issue>4</issue>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0214595</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation>ARMOND, A. C. V.; KAKUK, P. Research integrity guidelines and safeguards in Brazil. <bold>Account Res</bold>, New York, v. 30, n. 3, p. 133-149, 2023. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08989621.2021.1979969">https://doi.org/10.1080/08989621.2021.1979969</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ARMOND</surname>
+              <given-names>A. C. V.</given-names>
+            </name>
+            <name>
+              <surname>KAKUK</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Research integrity guidelines and safeguards in Brazil</article-title>
+          <source>Account Res</source>
+          <publisher-loc>New York</publisher-loc>
+          <volume>30</volume>
+          <issue>3</issue>
+          <fpage>133</fpage>
+          <lpage>149</lpage>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1080/08989621.2021.1979969</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation>BOUTER, L. Fostering responsible research practices is a shared responsibility of multiple stakeholders. <bold>J. Clin. Epidemiol</bold>., Oxford; New York, v. 96, p. 143–146, 2018. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jclinepi.2017.12.016">https://doi.org/10.1016/j.jclinepi.2017.12.016</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>BOUTER</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fostering responsible research practices is a shared responsibility of multiple stakeholders</article-title>
+          <source>J. Clin. Epidemiol</source>
+          <volume>96</volume>
+          <fpage>143</fpage>
+          <lpage>146</lpage>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1016/j.jclinepi.2017.12.016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation>BOUTER, L. What Research Institutions can do to foster Research Integrity. <bold>Sci Eng Ethics</bold>, England, v. 26, p. 2363–2369, 2020. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11948-020-00178-5">https://doi.org/10.1007/s11948-020-00178-5</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>BOUTER</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>What Research Institutions can do to foster Research Integrity</article-title>
+          <source>Sci Eng Ethics</source>
+          <publisher-loc>England</publisher-loc>
+          <volume>26</volume>
+          <fpage>2363</fpage>
+          <lpage>2369</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1007/s11948-020-00178-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation>CARLING, J. <bold>Research ethics and research integrity</bold>. MIGNEX Handbook. Chapter 4 (v1). Oslo: Peace Research Institute Oslo, 2019. Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.mignex.org/d013">www.mignex.org/d013</ext-link></mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>CARLING</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Research ethics and research integrity</source>
+          <publisher-loc>Oslo</publisher-loc>
+          <publisher-name>Peace Research Institute Oslo</publisher-name>
+          <year>2019</year>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation>CERDÀ-NAVARRO, A.; TOUZA, C.; MOREY-LÓPEZ, M.; CURIEL, E. Academic integrity policies against assessment fraud in postgraduate studies: An analysis of the situation in Spanish universities. <bold>Heliyon</bold>, London, v. 8, n. 3, 2022. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.heliyon.2022.e09170">https://doi.org/10.1016/j.heliyon.2022.e09170</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>CERDÀ-NAVARRO</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>TOUZA</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>MOREY-LÓPEZ</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>CURIEL</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Academic integrity policies against assessment fraud in postgraduate studies: An analysis of the situation in Spanish universities</article-title>
+          <source>Heliyon</source>
+          <publisher-loc>London</publisher-loc>
+          <volume>8</volume>
+          <issue>3</issue>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.1016/j.heliyon.2022.e09170</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation>Conselho... <bold>Comitês de Ética em Pesquisa</bold>. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://conselho.saude.gov.br/comites-de-etica-em-pesquisa-conep?view=default">https://conselho.saude.gov.br/comites-de-etica-em-pesquisa-conep?view=default</ext-link> Acesso em: 14 jul. 2023.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <collab>Conselho...</collab>
+          </person-group>
+          <source>Comitês de Ética em Pesquisa</source>
+          <year>2023</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://conselho.saude.gov.br/comites-de-etica-em-pesquisa-conep?view=default">https://conselho.saude.gov.br/comites-de-etica-em-pesquisa-conep?view=default</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-07-14">14 jul. 2023</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation>COPE Council. <bold>Core practices</bold>. – English. Committee on Publication Ethics, c2025. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/about/what-we-do/our-story/core-practices">https://publicationethics.org/about/what-we-do/our-story/core-practices</ext-link>. Acesso em: 15 fev. 2025.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <collab>COPE Council</collab>
+          </person-group>
+          <source>Core practices</source>
+          <year>2025</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/about/what-we-do/our-story/core-practices">https://publicationethics.org/about/what-we-do/our-story/core-practices</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-02-15">15 fev. 2025</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation>COPE Council. <bold>Strategic plan</bold>. – English. Committee on Publication Ethics, c2024b. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/about/cope-strategic-plan">https://publicationethics.org/about/cope-strategic-plan</ext-link> Acesso em: 18 nov. 2024.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <collab>COPE Council</collab>
+          </person-group>
+          <source>Strategic plan</source>
+          <year>2024b</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://publicationethics.org/about/cope-strategic-plan">https://publicationethics.org/about/cope-strategic-plan</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-11-18">18 nov. 2024</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation>DEJO-VÁSQUEZ, M.; LESCANO, R.; PÉREZ-CARREÑO, J. G. The value of the World Conferences on Research Integrity: perspectives from Peru. <bold>Forensic Sci Res</bold>, Abingdon, v. 6, n. 4, p. 347–349, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/20961790.2021.1972906">https://doi.org/10.1080/20961790.2021.1972906</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DEJO-VÁSQUEZ</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>LESCANO</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>PÉREZ-CARREÑO</surname>
+              <given-names>J. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>The value of the World Conferences on Research Integrity: perspectives from Peru</article-title>
+          <source>Forensic Sci Res</source>
+          <publisher-loc>Abingdon</publisher-loc>
+          <volume>6</volume>
+          <issue>4</issue>
+          <fpage>347</fpage>
+          <lpage>349</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1080/20961790.2021.1972906</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation>DESMOND H, DIERICKX K. Research integrity codes of conduct in Europe: Understanding the divergences. <bold>Bioethics</bold>, Oxford, v. 35, n. 5, p. 414–428, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/bioe.12851">https://doi.org/10.1111/bioe.12851</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DESMOND</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>DIERICKX</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Research integrity codes of conduct in Europe: Understanding the divergences</article-title>
+          <source>Bioethics</source>
+          <publisher-loc>Oxford</publisher-loc>
+          <volume>35</volume>
+          <issue>5</issue>
+          <fpage>414</fpage>
+          <lpage>428</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1111/bioe.12851</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation>EDSALL, J. Scientific freedom and responsibility. <bold>Science</bold>, New York, v. 188, n. 4189, p. 687–693, 1975. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.11643270">https://doi.org/10.1126/science.11643270</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>EDSALL</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scientific freedom and responsibility</article-title>
+          <source>Science</source>
+          <publisher-loc>New York</publisher-loc>
+          <volume>188</volume>
+          <issue>4189</issue>
+          <fpage>687</fpage>
+          <lpage>693</lpage>
+          <year>1975</year>
+          <pub-id pub-id-type="doi">10.1126/science.11643270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation>ELLIOTT, K. <bold>Values in Science</bold>. Cambridge: Cambridge University Press, 2022.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ELLIOTT</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Values in Science</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <year>2022</year>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation>FANELLI, D. Why growing retractions are (mostly) a good sign. <bold>PLOS Med</bold>, San Francisco, v. 10: e1001563, 2013. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1371/journal.pmed.1001563">https://doi.org/10.1371/journal.pmed.1001563</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>FANELLI</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Why growing retractions are (mostly) a good sign</article-title>
+          <source>PLOS Med</source>
+          <publisher-loc>San Francisco</publisher-loc>
+          <volume>10</volume>
+          <elocation-id>e1001563</elocation-id>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001563</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation>GARFIELD, E. What do we know about fraud and other forms of intellectual dishonesty in science? Part 1, The spectrum of deviant behavior in science. <bold>Curr Contents Clin Med</bold>, v. 15, n. 14, p. 3–7, 1987.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>GARFIELD</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>What do we know about fraud and other forms of intellectual dishonesty in science? Part 1, The spectrum of deviant behavior in science</article-title>
+          <source>Curr Contents Clin Med</source>
+          <volume>15</volume>
+          <issue>14</issue>
+          <fpage>3</fpage>
+          <lpage>7</lpage>
+          <year>1987</year>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation>GONZALEZ-ACUNA, J. C; MUNOZ, C.; VALENZUELA, J. Ética e integridad académica en la formación doctoral: el caso de los doctorados en educación en las universidades chilenas. <bold>Acta bioeth</bold>., Santiago, v. 29, n. 1, p. 27–38, 2023. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4067/S1726-569X2023000100027">http://dx.doi.org/10.4067/S1726-569X2023000100027</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>GONZALEZ-ACUNA</surname>
+              <given-names>J. C</given-names>
+            </name>
+            <name>
+              <surname>MUNOZ</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>VALENZUELA</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ética e integridad académica en la formación doctoral: el caso de los doctorados en educación en las universidades chilenas</article-title>
+          <source>Acta bioeth</source>
+          <volume>29</volume>
+          <issue>1</issue>
+          <fpage>27</fpage>
+          <lpage>38</lpage>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.4067/S1726-569X2023000100027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation>GOTTARDELLO, D.; KARABAG, S. F. Ideal and actual roles of university professors in academic integrity management: a comparative study. <bold>Stud High Educ</bold>, Oxford, v. 47, n. 3, p.526–544, 2022. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/03075079.2020.1767051">https://doi.org/10.1080/03075079.2020.1767051</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>GOTTARDELLO</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>KARABAG</surname>
+              <given-names>S. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ideal and actual roles of university professors in academic integrity management: a comparative study</article-title>
+          <source>Stud High Educ</source>
+          <publisher-loc>Oxford</publisher-loc>
+          <volume>47</volume>
+          <issue>3</issue>
+          <fpage>526</fpage>
+          <lpage>544</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.1080/03075079.2020.1767051</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation>GUIDE to referees. <bold>Scientific Reports</bold>. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/srep/guide-to-referees">https://www.nature.com/srep/guide-to-referees</ext-link> Acesso em: 12 fev. 2024.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <article-title>GUIDE to referees</article-title>
+          <source>Scientific Reports</source>
+          <year>2024</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/srep/guide-to-referees">https://www.nature.com/srep/guide-to-referees</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-02-12">12 fev. 2024</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation>GUILHEM, D. Ética em pesquisa: avanços e desafios. <bold>RECIIS</bold>, Rio de Janeiro, v. 2, 2008. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.reciis.icict.fiocruz.br/index.php/reciis/article/view/870">https://www.reciis.icict.fiocruz.br/index.php/reciis/article/view/870</ext-link> . Acesso em: 07 de janeiro de 2023.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>GUILHEM</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ética em pesquisa: avanços e desafios</article-title>
+          <source>RECIIS</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <volume>2</volume>
+          <year>2008</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.reciis.icict.fiocruz.br/index.php/reciis/article/view/870">https://www.reciis.icict.fiocruz.br/index.php/reciis/article/view/870</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-01-07">07 de janeiro de 2023</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation>HELGESSON, G.; BÜLOW, W. Research Integrity and Hidden Value Conflicts. <bold>J Acad Ethics</bold>, Dordrecht, v. 21, p. 113–123, 2023. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10805-021-09442-0">https://doi.org/10.1007/s10805-021-09442-0</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>HELGESSON</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>BÜLOW</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Research Integrity and Hidden Value Conflicts</article-title>
+          <source>J Acad Ethics</source>
+          <publisher-loc>Dordrecht</publisher-loc>
+          <volume>21</volume>
+          <fpage>113</fpage>
+          <lpage>123</lpage>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1007/s10805-021-09442-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation>INTERNATIONAL COMMITTEE OF MEDICAL JOURNAL EDITORS. Uniform requirements for manuscripts submitted to biomedical journals. <bold>N Engl J Med</bold>., Boston, v. 336, p. 309-316, 1997. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1056/NEJM199701233360422">https://doi.org/10.1056/NEJM199701233360422</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>INTERNATIONAL COMMITTEE OF MEDICAL JOURNAL EDITORS</collab>
+          </person-group>
+          <article-title>Uniform requirements for manuscripts submitted to biomedical journals</article-title>
+          <source>N Engl J Med</source>
+          <volume>336</volume>
+          <fpage>309</fpage>
+          <lpage>316</lpage>
+          <year>1997</year>
+          <pub-id pub-id-type="doi">10.1056/NEJM199701233360422</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation>INTERNATIONAL COMMITTEE OF MEDICAL JOURNAL EDITORS (ICMJE). <bold>Recommendations</bold>: Defining the Role of Authors and Contributors. <italic>In:</italic> INTERNATIONAL COMMITTEE OF MEDICAL JOURNAL EDITORS [Philadelphia, USA]: International Committee of Medical Journal Editors, 2024. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.icmje.org/recommendations/">https://www.icmje.org/recommendations/</ext-link>. Acesso em: 15 fev. 2025.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>INTERNATIONAL COMMITTEE OF MEDICAL JOURNAL EDITORS (ICMJE)</collab>
+          </person-group>
+          <source>Recommendations: Defining the Role of Authors and Contributors</source>
+          <year>2024</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.icmje.org/recommendations/">https://www.icmje.org/recommendations/</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2025-02-15">15 fev. 2025</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation>KARLBERG, I. On Peer Review – the Cornerstone of Scientific Publication. <bold>Scand J Public Health</bold>, London, v. 43, n. 1, 2015. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/14034948145657">https://doi.org/10.1177/14034948145657</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>KARLBERG</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>On Peer Review – the Cornerstone of Scientific Publication</article-title>
+          <source>Scand J Public Health</source>
+          <publisher-loc>London</publisher-loc>
+          <volume>43</volume>
+          <issue>1</issue>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1177/14034948145657</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation>KOLSTOE, S. E.; PUGH, J. The trinity of good research: Distinguishing between research integrity, ethics, and governance. <bold>Account Res</bold>, New York, 2023 [ahead of print]. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08989621.2023.2239712">https://doi.org/10.1080/08989621.2023.2239712</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>KOLSTOE</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name>
+              <surname>PUGH</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The trinity of good research: Distinguishing between research integrity, ethics, and governance</article-title>
+          <source>Account Res</source>
+          <publisher-loc>New York</publisher-loc>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1080/08989621.2023.2239712</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation>LEE, C. J.; SUGIMOTO, C. R.; ZHANG, G.; CRONIN, B. Bias in peer review. <bold>J Assoc Inf Sci Technol</bold>, Hoboken, v. 64, n. 1, p. 2-17, 2013. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/asi.22784">https://doi.org/10.1002/asi.22784</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LEE</surname>
+              <given-names>C. J.</given-names>
+            </name>
+            <name>
+              <surname>SUGIMOTO</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name>
+              <surname>ZHANG</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>CRONIN</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bias in peer review</article-title>
+          <source>J Assoc Inf Sci Technol</source>
+          <publisher-loc>Hoboken</publisher-loc>
+          <volume>64</volume>
+          <issue>1</issue>
+          <fpage>2</fpage>
+          <lpage>17</lpage>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1002/asi.22784</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation>LÖFSTRÖM, E.; TROTMAN, T.; FURNARI, M.; SHEPHARD, K. Who teaches academic integrity and how do they teach it? <bold>Int J High Educ</bold>, Toronto, v. 69, p. 435–448, 2015. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s10734-014-9784-3">https://doi.org/10.1007/s10734-014-9784-3</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LÖFSTRÖM</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>TROTMAN</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>FURNARI</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>SHEPHARD</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Who teaches academic integrity and how do they teach it?</article-title>
+          <source>Int J High Educ</source>
+          <publisher-loc>Toronto</publisher-loc>
+          <volume>69</volume>
+          <fpage>435</fpage>
+          <lpage>448</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1007/s10734-014-9784-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation>MARCUS, A.; ORANSKY, I. What Studies of Retractions Tell Us. <bold>J Microbiol Biol Educ</bold>, Washington, v. 15, n. 2, 151–154, 2014. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1128/jmbe.v15i2.855">http://dx.doi.org/10.1128/jmbe.v15i2.855</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MARCUS</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>ORANSKY</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>What Studies of Retractions Tell Us</article-title>
+          <source>J Microbiol Biol Educ</source>
+          <publisher-loc>Washington</publisher-loc>
+          <volume>15</volume>
+          <issue>2</issue>
+          <fpage>151</fpage>
+          <lpage>154</lpage>
+          <year>2014</year>
+          <pub-id pub-id-type="doi">10.1128/jmbe.v15i2.855</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation>MCINTOSH, L. D.; VITALE, C. H. Forensic Scientometrics - An emerging discipline to protect the scholarly record. <bold>arXiv</bold>:2404.00478, 2024. <ext-link ext-link-type="uri" xlink:href="http://arxiv.org/abs/2404.00478">http://arxiv.org/abs/2404.00478</ext-link></mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MCINTOSH</surname>
+              <given-names>L. D.</given-names>
+            </name>
+            <name>
+              <surname>VITALE</surname>
+              <given-names>C. H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Forensic Scientometrics - An emerging discipline to protect the scholarly record</article-title>
+          <source>arXiv: 2404</source>
+          <year>2024</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://arxiv.org/abs/2404.00478">http://arxiv.org/abs/2404.00478</ext-link></comment>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation>MEJLGAARD, N.; BOUTER, L. M.; GASKELL, G.; KAVOURAS, P.; ALLUM, N.; BENDTSEN, A.-K.; et al. Research integrity: nine ways to move from talk to walk. <bold>Nature</bold>, London, v. 586, p. 358–360, 2020. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/d41586-020-02847-8">https://doi.org/10.1038/d41586-020-02847-8</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MEJLGAARD</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>BOUTER</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>GASKELL</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>KAVOURAS</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>ALLUM</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>BENDTSEN</surname>
+              <given-names>A.-K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Research integrity: nine ways to move from talk to walk</article-title>
+          <source>Nature</source>
+          <publisher-loc>London</publisher-loc>
+          <volume>586</volume>
+          <fpage>358</fpage>
+          <lpage>360</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1038/d41586-020-02847-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation>MERISTE, H.; PARDER, M. L.; LÕUK, K.; SIMM, K.; LILLES-HEINSAR, L.; VESKI, L.; SOONE, M.; JUURIK, M.; SUTROP, M. <bold>Normative analysis of research integrity and misconduct</bold>. Brussels: The PRINTEGER Project., 2016. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://printeger.eu/wp-content/uploads/2016/10/D2.3.pdf">https://printeger.eu/wp-content/uploads/2016/10/D2.3.pdf</ext-link></mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MERISTE</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>PARDER</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name>
+              <surname>LÕUK</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>SIMM</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>LILLES-HEINSAR</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>VESKI</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>SOONE</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>JUURIK</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>SUTROP</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <source>Normative analysis of research integrity and misconduct</source>
+          <publisher-loc>Brussels</publisher-loc>
+          <publisher-name>The PRINTEGER Project</publisher-name>
+          <year>2016</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://printeger.eu/wp-content/uploads/2016/10/D2.3.pdf">https://printeger.eu/wp-content/uploads/2016/10/D2.3.pdf</ext-link></comment>
+        </element-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation>MERTON, R. K. <bold>The Sociology of Science</bold>: Theoretical and Empirical Investigations. University of Chicago Press, 1962.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MERTON</surname>
+              <given-names>R. K.</given-names>
+            </name>
+          </person-group>
+          <source>The Sociology of Science: Theoretical and Empirical Investigations</source>
+          <year>1962</year>
+        </element-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation>MUTHANNA, A.; CHAABAN, Y.; QADHI, S. A model of the interrelationship between research ethics and research integrity. <bold>Int J Qual Stud Health Well-being</bold>, Philadelphia, v. 19, 2024. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/17482631.2023.2295151">https://doi.org/10.1080/17482631.2023.2295151</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MUTHANNA</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>CHAABAN</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>QADHI</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A model of the interrelationship between research ethics and research integrity</article-title>
+          <source>Int J Qual Stud Health Well-being</source>
+          <publisher-loc>Philadelphia</publisher-loc>
+          <volume>19</volume>
+          <year>2024</year>
+          <pub-id pub-id-type="doi">10.1080/17482631.2023.2295151</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation>ORTEGA, J. L. Classification and analysis of PubPeer comments: How a web journal club is used. <bold>J Assoc Inf Sci Technol</bold>, Hoboken, v. 73, n. 5, p. 655–670, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/asi.24568">https://doi.org/10.1002/asi.24568</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ORTEGA</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Classification and analysis of PubPeer comments: How a web journal club is used</article-title>
+          <source>J Assoc Inf Sci Technol</source>
+          <publisher-loc>Hoboken</publisher-loc>
+          <volume>73</volume>
+          <issue>5</issue>
+          <fpage>655</fpage>
+          <lpage>670</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1002/asi.24568</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation>PIZZOLATO, D., DIERICKX, K. The Mentor’s Role in Fostering Research Integrity Standards Among New Generations of Researchers: A Review of Empirical Studies. <bold>Sci Eng Ethics</bold>, England, v. 29, 2023. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11948-023-00439-z">https://doi.org/10.1007/s11948-023-00439-z</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>PIZZOLATO</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>DIERICKX</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Mentor’s Role in Fostering Research Integrity Standards Among New Generations of Researchers: A Review of Empirical Studies</article-title>
+          <source>Sci Eng Ethics</source>
+          <publisher-loc>England</publisher-loc>
+          <volume>29</volume>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1007/s11948-023-00439-z</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation>REETZ, M. T. Effective Mentoring and the Problem of Assessing Quality in Science. <bold>Helv Chim Acta</bold>, Basel, v. 104, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/hlca.202100124">https://doi.org/10.1002/hlca.202100124</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>REETZ</surname>
+              <given-names>M. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective Mentoring and the Problem of Assessing Quality in Science</article-title>
+          <source>Helv Chim Acta</source>
+          <publisher-loc>Basel</publisher-loc>
+          <volume>104</volume>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1002/hlca.202100124</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation>RESNIK, D. B. <bold>The ethics of science</bold>: An introduction. London: Routledge, 1998.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>RESNIK</surname>
+              <given-names>D. B.</given-names>
+            </name>
+          </person-group>
+          <source>The ethics of science: An introduction</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Routledge</publisher-name>
+          <year>1998</year>
+        </element-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation>RESNIK D. B. Scientific Autonomy and Public Oversight. <bold>Episteme</bold>, Cambridge, v. 5, n. 2, 220–238, 2008. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3366/E1742360008000336">https://doi.org/10.3366/E1742360008000336</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>RESNIK</surname>
+              <given-names>D. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Scientific Autonomy and Public Oversight</article-title>
+          <source>Episteme</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>5</volume>
+          <issue>2</issue>
+          <fpage>220</fpage>
+          <lpage>238</lpage>
+          <year>2008</year>
+          <pub-id pub-id-type="doi">10.3366/E1742360008000336</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation>RESNIK, D. B.; ELLIOTT, K. C. Value-Entanglement and the Integrity of Scientific Research. <bold>Stud Hist Philos Sci.</bold> Oxford, v. 75, p 1–11, 2019. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.shpsa.2018.12.011">https://doi.org/10.1016/j.shpsa.2018.12.011</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>RESNIK</surname>
+              <given-names>D. B.</given-names>
+            </name>
+            <name>
+              <surname>ELLIOTT</surname>
+              <given-names>K. C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Value-Entanglement and the Integrity of Scientific Research</article-title>
+          <source>Stud Hist Philos Sci</source>
+          <volume>75</volume>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1016/j.shpsa.2018.12.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation>ROTHER, E. T. Revisão sistemática X revisão narrativa. <bold>Acta Paulista de Enfermagem</bold>, v. 20, n. 2, 2007. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0103-21002007000200001">https://doi.org/10.1590/S0103-21002007000200001</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ROTHER</surname>
+              <given-names>E. T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Revisão sistemática X revisão narrativa</article-title>
+          <source>Acta Paulista de Enfermagem</source>
+          <volume>20</volume>
+          <issue>2</issue>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.1590/S0103-21002007000200001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation>SANTOS, C. A. dos. A participação de Fletcher no experimento de gota de óleo de Millikan. <bold>Rev. Bras. Ens. Fis</bold>., São Paulo, vol. 17, n. 1, p. 107–116, 1995. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.sbfisica.org.br/rbef/pdf/vol17a10.pdf">https://www.sbfisica.org.br/rbef/pdf/vol17a10.pdf</ext-link>Acesso em: 16 abr. 2024</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SANTOS</surname>
+              <given-names>C. A. dos</given-names>
+            </name>
+          </person-group>
+          <article-title>A participação de Fletcher no experimento de gota de óleo de Millikan</article-title>
+          <source>Rev. Bras. Ens. Fis</source>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>107</fpage>
+          <lpage>116</lpage>
+          <year>1995</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.sbfisica.org.br/rbef/pdf/vol17a10.pdfAcesso">https://www.sbfisica.org.br/rbef/pdf/vol17a10.pdfAcesso</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-04-16">16 abr. 2024</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation>SANTOS-D´AMORIM, K. <bold>Dinâmica das retratações de artigos científicos na América Latina e implicações na cultura de integridade em pesquisa e governança na Ciência</bold>. 2024. Tese (Doutorado em Ciência da Informação) – Programa de Pós-graduação em Ciência da Informação, Universidade Federal de Pernambuco, Recife, 2024.</mixed-citation>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SANTOS-D´AMORIM</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <source>Dinâmica das retratações de artigos científicos na América Latina e implicações na cultura de integridade em pesquisa e governança na Ciência</source>
+          <year>2024</year>
+          <comment>Doutorado em Ciência da Informação</comment>
+        </element-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation>SANTOS-D'AMORIM, K. Integridade na pesquisa no âmbito da conjuntura pandêmica de COVID-19: um mapeamento bibliométrico. <bold>AtoZ</bold> (Curitiba), Curitiba, v. 11, p. 1–11, 2022. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/atoz.v11i0.84325">https://doi.org/10.5380/atoz.v11i0.84325</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SANTOS-D'AMORIM</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Integridade na pesquisa no âmbito da conjuntura pandêmica de COVID-19: um mapeamento bibliométrico</article-title>
+          <source>AtoZ</source>
+          <volume>11</volume>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.5380/atoz.v11i0.84325</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation>SHAW, D.; SATALKAR, P. Researchers’ interpretations of research integrity: A qualitative study. <bold>Account Res.</bold>, London, v. 25, n. 2, 79–93, 2018. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08989621.2017.1413940">https://doi.org/10.1080/08989621.2017.1413940</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SHAW</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>SATALKAR</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Researchers’ interpretations of research integrity: A qualitative study</article-title>
+          <source>Account Res</source>
+          <volume>25</volume>
+          <issue>2</issue>
+          <fpage>79</fpage>
+          <lpage>93</lpage>
+          <year>2018</year>
+          <pub-id pub-id-type="doi">10.1080/08989621.2017.1413940</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation>SHUSTER, E. Fifty Years Later: The Significance of the Nuremberg Code. <bold>N Engl J Med</bold>, Boston, v. 337, p. 1436–1440, 1997.  <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1056/NEJM199711133372006">https://doi.org/10.1056/NEJM199711133372006</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SHUSTER</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fifty Years Later: The Significance of the Nuremberg Code</article-title>
+          <source>N Engl J Med</source>
+          <publisher-loc>Boston</publisher-loc>
+          <volume>337</volume>
+          <fpage>1436</fpage>
+          <lpage>1440</lpage>
+          <year>1997</year>
+          <pub-id pub-id-type="doi">10.1056/NEJM199711133372006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation>SOEHARTONO, A. M.; YU, L. G.; KHOR, K. A. Essential signals in publication trends and collaboration patterns in global Research Integrity and Research Ethics (RIRE). <bold>Scientometrics</bold>, Amsterdam, v. 127, p. 7487–7497, 2022. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11192-022-04400-y">https://doi.org/10.1007/s11192-022-04400-y</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SOEHARTONO</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name>
+              <surname>YU</surname>
+              <given-names>L. G.</given-names>
+            </name>
+            <name>
+              <surname>KHOR</surname>
+              <given-names>K. A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential signals in publication trends and collaboration patterns in global Research Integrity and Research Ethics (RIRE)</article-title>
+          <source>Scientometrics</source>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <volume>127</volume>
+          <fpage>7487</fpage>
+          <lpage>7497</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.1007/s11192-022-04400-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation>SRIVASTAVA, D. S.; BERNARDINO, J.; MARQUES, A. T.; PROENÇA-FERREIRA, A.; FILIPE, A. F.; BORDA-DE-ÁGUA, L.; GAMEIRO, J. Editors are biased too: An extension of Fox et al. (2023)'s analysis makes the case for triple-blind review. <bold>Funct Ecol</bold>, Oxford, v. 38, n. 2, p. 278–283, 2024. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/1365-2435.14483">https://doi.org/10.1111/1365-2435.14483</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SRIVASTAVA</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name>
+              <surname>BERNARDINO</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>MARQUES</surname>
+              <given-names>A. T.</given-names>
+            </name>
+            <name>
+              <surname>PROENÇA-FERREIRA</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>FILIPE</surname>
+              <given-names>A. F.</given-names>
+            </name>
+            <name>
+              <surname>BORDA-DE-ÁGUA</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>GAMEIRO</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Editors are biased too: An extension of Fox et al. (2023)'s analysis makes the case for triple-blind review</article-title>
+          <source>Funct Ecol</source>
+          <publisher-loc>Oxford</publisher-loc>
+          <volume>38</volume>
+          <issue>2</issue>
+          <fpage>278</fpage>
+          <lpage>283</lpage>
+          <year>2024</year>
+          <pub-id pub-id-type="doi">10.1111/1365-2435.14483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation>STENECK, N. H.; MAYER, T.; ANDERSON, M. S.; KLEINERT, S. The Origin, Objectives and Evolution of the World Conferences on Research Integrity. <italic>In:</italic> Gundersen, L. C. (Org.). <bold>Scientific Integrity and Ethics in the Geosciences</bold>. Washington, D.C.: Hoboken, NJ: American Geophysical Union; John Wiley &amp; Sons, 2018. P. 3-14</mixed-citation>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>STENECK</surname>
+              <given-names>N. H.</given-names>
+            </name>
+            <name>
+              <surname>MAYER</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>ANDERSON</surname>
+              <given-names>M. S.</given-names>
+            </name>
+            <name>
+              <surname>KLEINERT</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <chapter-title>The Origin, Objectives and Evolution of the World Conferences on Research Integrity</chapter-title>
+          <source>Scientific Integrity and Ethics in the Geosciences</source>
+          <year>2018</year>
+        </element-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation>STENECK, N. H. <bold>Introduction to the Responsible Conduct of Research</bold>. Washington, DC: US Government Printing Office, 2007.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>STENECK</surname>
+              <given-names>N. H.</given-names>
+            </name>
+          </person-group>
+          <source>Introduction to the Responsible Conduct of Research</source>
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>US Government Printing Office</publisher-name>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation>STEWART JR., C. N. <bold>Research Ethics for Scientists</bold>: A companion for students. Chichester: Willey-Blackwall, 2011.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>STEWART JR</surname>
+              <given-names>C. N.</given-names>
+            </name>
+          </person-group>
+          <source>Research Ethics for Scientists: A companion for students</source>
+          <publisher-loc>Chichester</publisher-loc>
+          <publisher-name>Willey-Blackwall</publisher-name>
+          <year>2011</year>
+        </element-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation>TEIXEIRA DA SILVA, J. The Profoundly Unethical Nature of Retraction Watch’s Call for Coercion. <bold>European Business &amp; Management,</bold> [s.l.]. v. 3, n. 6, 2017. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.11648/j.ebm.20170306.15">https://doi.org/10.11648/j.ebm.20170306.15</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>TEIXEIRA DA SILVA</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Profoundly Unethical Nature of Retraction Watch’s Call for Coercion</article-title>
+          <source>European Business &amp; Management</source>
+          <volume>3</volume>
+          <issue>6</issue>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.11648/j.ebm.20170306.15</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation>TIJDINK, J. K., HORBACH, S. P. J. M.; NUIJTEN, M. B.; O’NEILL, G. Towards a Research Agenda for Promoting Responsible Research Practices. <bold>J Empir Res Hum Res Ethics</bold>, Thousand Oaks, v. 16, n. 4, p. 450–460, 2021. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/15562646211018916">https://doi.org/10.1177/15562646211018916</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>TIJDINK</surname>
+              <given-names>J. K.</given-names>
+            </name>
+            <name>
+              <surname>HORBACH</surname>
+              <given-names>S. P. J. M.</given-names>
+            </name>
+            <name>
+              <surname>NUIJTEN</surname>
+              <given-names>M. B.</given-names>
+            </name>
+            <name>
+              <surname>O’NEILL</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Towards a Research Agenda for Promoting Responsible Research Practices</article-title>
+          <source>J Empir Res Hum Res Ethics</source>
+          <publisher-loc>Thousand Oaks</publisher-loc>
+          <volume>16</volume>
+          <issue>4</issue>
+          <fpage>450</fpage>
+          <lpage>460</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1177/15562646211018916</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation>WORLD CONFERENCE ON RESEARCH INTEGRITY. <bold>Singapore Statement on Research Integrity.</bold> – English. World Conference on Research Integrity Foundation, c2024. Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.wcrif.org/guidance/singapore-statement">https://www.wcrif.org/guidance/singapore-statement</ext-link>. Acesso em: 18 nov. 2024.</mixed-citation>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <collab>WORLD CONFERENCE ON RESEARCH INTEGRITY</collab>
+          </person-group>
+          <source>Singapore Statement on Research Integrity</source>
+          <year>2024</year>
+          <comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="https://www.wcrif.org/guidance/singapore-statement">https://www.wcrif.org/guidance/singapore-statement</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2024-11-18">18 nov. 2024</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation>WOLFRAM, D.; WANG, P.; HEMBREE, A.; PARK, H. Open peer review: promoting transparency in open science. <bold>Scientometrics,</bold> Amsterdam, v. 125, 2020. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11192-020-03488-4">https://doi.org/10.1007/s11192-020-03488-4</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>WOLFRAM</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>WANG</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>HEMBREE</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>PARK</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Open peer review: promoting transparency in open science</article-title>
+          <source>Scientometrics</source>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <volume>125</volume>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1007/s11192-020-03488-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation>van den HOVEN, M.; LINDEMANN, T.; ZOLLITSCH, L.; PRIEß-BUCHHEIT, J. A Taxonomy for Research Integrity Training: Design, Conduct, and Improvements in Research Integrity Courses. <bold>Sci Eng Ethics</bold>, England, v. 29, 2023. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11948-022-00425-x">https://doi.org/10.1007/s11948-022-00425-x</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>van den HOVEN</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>LINDEMANN</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>ZOLLITSCH</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>PRIEß-BUCHHEIT</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Taxonomy for Research Integrity Training: Design, Conduct, and Improvements in Research Integrity Courses</article-title>
+          <source>Sci Eng Ethics</source>
+          <publisher-loc>England</publisher-loc>
+          <volume>29</volume>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1007/s11948-022-00425-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation>ZIMAN, J. M. <bold>A Força do Conhecimento.</bold> Tradução: Eugênio Amado. São Paulo: Editora Itatiaia; Edusp, 1981.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ZIMAN</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <source>A Força do Conhecimento</source>
+          <year>1981</year>
+        </element-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation>ZIMAN, J. M. <bold>O conhecimento confiável</bold>. Uma exploração dos fundamentos para a crença na ciência. Tradução: Tomás R. Bueno. Campinas, SP: Papirus, 1996.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ZIMAN</surname>
+              <given-names>J. M.</given-names>
+            </name>
+          </person-group>
+          <source>O conhecimento confiável</source>
+          <year>1996</year>
+        </element-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation>ZUCKERMAN, H. Is “the time ripe” for quantitative research on misconduct in science? <bold>Quantitative Science Studies</bold>, Cambridge, v. 1, n. 3, p. 945–958, 2020. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1162/qss_a_00065">https://doi.org/10.1162/qss_a_00065</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ZUCKERMAN</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Is “the time ripe” for quantitative research on misconduct in science?</article-title>
+          <source>Quantitative Science Studies</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>1</volume>
+          <issue>3</issue>
+          <fpage>945</fpage>
+          <lpage>958</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1162/qss_a_00065</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn fn-type="other" id="fn1">
+        <label>1</label>
+        <p>Em tradução livre, “Recomendações para a Conduta, Relatórios, Edição e Publicação de Trabalhos Acadêmicos em Revistas Médicas”.</p>
+      </fn>
+      <fn fn-type="other" id="fn2">
+        <label>2</label>
+        <p>Não se pode deixar de citar críticas ao modelo jornalístico utilizado pelo RW em <xref ref-type="bibr" rid="B55">Teixeira da Silva (2017)</xref>.</p>
+      </fn>
+      <fn fn-type="other" id="fn3">
+        <label>3</label>
+        <p>Cunhado em 1953 por Irving Langmuir, Nobel de Química de 1932, o termo “ciência patológica” refere-se à “ciência das coisas que não são o que parecem ser” (Langmuir, 1954, não paginado). A ideia de ciência patológica como uma doença, não adereça a intenção de desonestidade científica deliberada, mas sim, sugere possíveis vieses cognitivos ou falhas humanas em que pesquisadores são desviados por efeitos subjetivos ou levados a resultados falsos pelo excesso de confiança em almejar resultados positivos. Turro (1998) acrescenta dois itens aos sintomas de ciência patológica de Langmuir. O primeiro, refere-se à deficiência cognitiva baseada na não-capacidade de considerar hipóteses alternativas para explicar um resultado incomum e o segundo, diz respeito à ciência patológica como uma interpretação relativamente sensacionalista de uma observação normal.</p>
+      </fn>
+      <fn fn-type="other" id="fn4">
+        <label>4</label>
+        <p>Do original: “<italic>Registry for Research on the Responsible conduct of Research</italic>” (RRRCR).</p>
+      </fn>
+      <fn fn-type="other" id="fn-work-info">
+        <p><bold>Informações sobre a obra:</bold> O manuscrito é derivado de parte de seção teórica de Tese de Doutorado desenvolvida no Programa de Pós-graduação em Ciência da Informação da Universidade Federal de Pernambuco, Departamento de Ciência da Informação.</p>
+      </fn>
+      <fn fn-type="other" id="fn-data-availability">
+        <p><bold>Disponibilidade de dados e conjunto dos dados:</bold> A pesquisa não possui dados<bold><italic>.</italic></bold> O artigo não contém dados coletados ou obtidos por meio de análises a partir de fontes primárias.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
